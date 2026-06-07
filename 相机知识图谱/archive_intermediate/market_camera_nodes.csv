@@ -1,0 +1,17 @@
+id,name,Label,brand,category,price,releaseYear,weight,marketHotScore,sourcePlatform,sourceRank,sourceTitle,sourceUrl,marketNote
+cam_a7c2,Alpha 7C II,CameraModel,索尼,全画幅微单,13999,2023,514,96,京东自营微单排行榜,4,索尼 Alpha 7C II 全画幅微单相机 AI智能芯片 4K视频,https://www.jd.com/phb/key_652c33b950d6af2d7e9.html,轻便全画幅机身，适合旅行、人像和视频创作
+cam_zve10,ZV-E10,CameraModel,索尼,APS-C画幅微单,4599,2021,343,93,京东自营数码微单排行榜,7,索尼 ZV-E10K 半画幅直播4K视频 Vlog美颜神器,https://www.jd.com/phb/key_65248aeaf2fae7926b5.html,Vlog和入门视频创作热销机型
+cam_zve10m2,ZV-E10 II,CameraModel,索尼,APS-C画幅微单,6999,2024,377,88,市场补充,,索尼 ZV-E10 II Vlog 微单相机,https://www.sony.com.cn/,新一代Vlog入门机，适合视频和直播
+cam_a6400,Alpha 6400,CameraModel,索尼,APS-C画幅微单,5999,2019,403,82,市场补充,,索尼 Alpha 6400 APS-C 微单相机,https://www.sony.com.cn/,入门到进阶用户常见选择
+cam_a7cr,Alpha 7CR,CameraModel,索尼,全画幅微单,20999,2023,515,84,市场补充,,索尼 Alpha 7CR 高像素轻便全画幅微单,https://www.sony.com.cn/,轻便高像素全画幅，适合旅行风光
+cam_r100,EOS R100,CameraModel,佳能,APS-C画幅微单,3999,2023,356,91,京东自营数码微单排行榜,,佳能 EOS R100 入门级微单相机 旅行家用学生vlog,https://www.jd.com/phb/key_65248aeaf2fae7926b5.html,低价入门微单，适合学生和家庭记录
+cam_r10,EOS R10,CameraModel,佳能,APS-C画幅微单,6799,2022,429,86,市场补充,,佳能 EOS R10 APS-C 微单相机,https://www.canon.com.cn/,对焦和连拍表现较好，适合入门进阶
+cam_r8,EOS R8,CameraModel,佳能,全画幅微单,10499,2023,461,89,市场补充,,佳能 EOS R8 轻量全画幅微单相机,https://www.canon.com.cn/,轻量全画幅，适合人像、旅行和视频
+cam_z30,Z 30,CameraModel,尼康,APS-C画幅微单,4999,2022,405,90,市场补充,,尼康 Z30 Vlog 微单相机,https://www.nikon.com.cn/,入门视频和日常记录机型
+cam_z50m2,Z 50II,CameraModel,尼康,APS-C画幅微单,6999,2024,550,91,京东自营微单排行榜,8,尼康 Z50II 18-140mm VR 微单套机 Z50二代,https://www.jd.com/phb/key_652c33b950d6af2d7e9.html,适合新手和旅行，套机焦段覆盖广
+cam_z5m2,Z5 II,CameraModel,尼康,全画幅微单,10999,2025,700,86,市场补充,,尼康 Z5 II 全画幅微单相机,https://www.nikon.com.cn/,入门全画幅升级选择
+cam_xs20,X-S20,CameraModel,富士,APS-C画幅微单,9199,2023,491,98,京东自营微单排行榜,1,富士 X-S20 微单相机 AI智能对焦 750张续航 Vlog模式,https://www.jd.com/phb/key_652c33b950d6af2d7e9.html,热销便携视频机，适合旅行、Vlog和直出
+cam_xm5,X-M5,CameraModel,富士,APS-C画幅微单,5999,2024,355,89,京东自营微单排行榜,9,富士 X-M5 微单相机 2610万像素 AI智能对焦 胶片模拟,https://www.jd.com/phb/key_652c33b950d6af2d7e9.html,轻量复古入门机，适合街拍和旅行
+cam_xs10,X-S10,CameraModel,富士,APS-C画幅微单,6999,2020,465,80,市场补充,,富士 X-S10 微单相机,https://www.fujifilm.com.cn/,具备防抖和胶片模拟，性价比较好
+cam_a7c,Alpha 7C,CameraModel,索尼,全画幅微单,9999,2020,509,85,市场补充,,索尼 Alpha 7C 轻便全画幅微单,https://www.sony.com.cn/,轻便全画幅老款，二手和促销市场常见
+cam_rp,EOS RP,CameraModel,佳能,全画幅微单,6999,2019,485,78,市场补充,,佳能 EOS RP 入门全画幅微单,https://www.canon.com.cn/,低价全画幅入门选择

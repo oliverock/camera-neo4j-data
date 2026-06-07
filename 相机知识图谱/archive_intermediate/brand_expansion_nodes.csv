@@ -1,0 +1,25 @@
+id,name,Label,country,foundedYear,marketPositioning,price,releaseYear,weight,focalLength,maxAperture,componentType,indexValue,brand,category,marketHotScore,sourcePlatform,sourceTitle,sourceUrl,marketNote
+brand_panasonic,松下,Brand,日本,1918,视频创作与M43/全画幅混合系统,,,,,,,,,,,,,
+brand_leica,徕卡,Brand,德国,1914,高端便携与旁轴影像,,,,,,,,,,,,,
+brand_om,OM System,Brand,日本,2021,轻量化M43户外生态系统,,,,,,,,,,,,,
+brand_ricoh,理光,Brand,日本,1936,街拍便携相机,,,,,,,,,,,,,
+brand_hasselblad,哈苏,Brand,瑞典,1941,中画幅高端影像,,,,,,,,,,,,,
+brand_dji,大疆,Brand,中国,2006,影像稳定器与便携视频设备,,,,,,,,,,,,,
+cat_m43,M43微单,CameraCategory,,,,,,,,,,,,,,,,
+cat_compact,便携固定镜头相机,CameraCategory,,,,,,,,,,,,,,,,
+cat_vlog_compact,Vlog便携相机,CameraCategory,,,,,,,,,,,,,,,,
+cam_s9,Lumix S9,CameraModel,,,,7999,2024,486,,,,,松下,全画幅微单,86,京东登录态搜索页,松下S9N 银色丨12期免息丨下单送好礼！,https://item.jd.com/10121433099690.html,全画幅轻便视频机，适合Vlog、旅行和日常创作
+cam_s5m2,Lumix S5 II,CameraModel,,,,10999,2023,740,,,,,松下,全画幅微单,84,市场补充,松下 Lumix S5 II 全画幅微单相机,https://www.panasonic.cn/,全画幅视频和照片均衡机型
+cam_gh7,Lumix GH7,CameraModel,,,,14999,2024,805,,,,,松下,M43微单,82,市场补充,松下 Lumix GH7 M43视频旗舰,https://www.panasonic.cn/,M43视频旗舰，适合专业视频创作
+cam_g100d,Lumix G100D,CameraModel,,,,2798,2024,346,,,,,松下,M43微单,88,京东登录态搜索页,松下G100DK 微单套机12-32mm 4K视频 专业收音,https://item.jd.com/100083084229.html,入门Vlog和轻量旅行相机
+cam_dlux8,D-LUX 8,CameraModel,,,,13000,2024,397,,,,,徕卡,便携固定镜头相机,80,京东登录态搜索页,徕卡 D-LUX8 多功能便携式数码相机,https://item.jd.com/100118069914.html,高端便携固定镜头相机，适合旅行和街拍
+cam_q3,Q3,CameraModel,,,,46900,2023,743,,,,,徕卡,便携固定镜头相机,76,市场补充,徕卡 Q3 全画幅便携相机,https://leica-camera.com/,高端全画幅固定镜头相机
+cam_om5,OM-5,CameraModel,,,,7999,2022,414,,,,,OM System,M43微单,78,市场补充,OM System OM-5 M43微单,https://explore.omsystem.com/,轻量户外旅行与生态题材
+cam_om1m2,OM-1 Mark II,CameraModel,,,,16999,2024,599,,,,,OM System,M43微单,80,市场补充,OM System OM-1 Mark II M43旗舰,https://explore.omsystem.com/,高速连拍、防护和生态拍摄
+cam_gr3,GR III,CameraModel,,,,6999,2019,257,,,,,理光,便携固定镜头相机,89,市场补充,理光 GR III 街拍相机,https://www.ricoh-imaging.com/,街拍经典机型，小巧高画质
+cam_gr3x,GR IIIx,CameraModel,,,,7499,2021,262,,,,,理光,便携固定镜头相机,86,市场补充,理光 GR IIIx 街拍相机,https://www.ricoh-imaging.com/,40mm视角街拍便携机
+cam_x2d,X2D 100C,CameraModel,,,,54800,2022,895,,,,,哈苏,中画幅微单,74,市场补充,哈苏 X2D 100C 中画幅无反,https://www.hasselblad.com/,高端中画幅高像素机型，适合商业和风光
+cam_pocket3,Osmo Pocket 3,CameraModel,,,,3499,2023,179,,,,,大疆,Vlog便携相机,94,市场补充,大疆 Osmo Pocket 3 便携云台相机,https://www.dji.com/cn/osmo-pocket-3,口袋云台相机，适合Vlog、直播和旅行记录
+lens_p1232,Lumix G 12-32mm F3.5-5.6,Lens,,,,1299,,70,12-32mm,F3.5-5.6,,,,松下,,78,市场补充,松下 M43 12-32mm 套机镜头,https://www.panasonic.cn/,M43轻便套机镜头
+lens_p2060,Lumix S 20-60mm F3.5-5.6,Lens,,,,3999,,350,20-60mm,F3.5-5.6,,,,松下,,76,市场补充,松下 L卡口 20-60mm 套机镜头,https://www.panasonic.cn/,全画幅轻便标准变焦
+lens_om1245,M.Zuiko 12-45mm F4 PRO,Lens,,,,3999,,254,12-45mm,F4,,,,OM System,,76,市场补充,OM System 12-45mm F4 PRO,https://explore.omsystem.com/,M43轻便恒定光圈变焦

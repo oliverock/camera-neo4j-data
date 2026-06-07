@@ -1,0 +1,14 @@
+id,mount,lensType,coverage,price,weight,stabilization,ecosystemNote
+lens_s1650p,索尼E卡口,标准变焦,APS-C,1299,116,OSS,索尼APS-C轻便套头
+lens_s18135,索尼E卡口,旅行变焦,APS-C,3999,325,OSS,索尼APS-C一镜走天下
+lens_s24105,索尼E卡口,标准变焦,全画幅,7499,663,OSS,索尼全画幅常用挂机镜头
+lens_c1845,佳能RF卡口,标准变焦,APS-C,1499,130,IS,佳能RF-S入门套头
+lens_c18150,佳能RF卡口,旅行变焦,APS-C,3299,310,IS,佳能RF-S旅行大变焦
+lens_c24105,佳能RF卡口,标准变焦,全画幅,2999,395,IS,佳能全画幅轻量标准变焦
+lens_n1650,尼康Z卡口,标准变焦,APS-C,1699,135,VR,尼康Z DX轻便套头
+lens_n18140,尼康Z卡口,旅行变焦,APS-C,3999,315,VR,尼康Z DX旅行大变焦
+lens_f1545,富士X卡口,标准变焦,APS-C,1399,135,OIS,富士轻便电动套头
+lens_f1650,富士X卡口,标准变焦,APS-C,4999,240,无,富士新款轻便变焦
+lens_p1232,松下M43卡口,标准变焦,M43,1299,70,MEGA OIS,松下M43饼干变焦
+lens_p2060,L卡口,标准变焦,全画幅,3999,350,无,松下全画幅套头
+lens_om1245,M43卡口,标准变焦,M43,3999,254,无,OM轻便PRO变焦

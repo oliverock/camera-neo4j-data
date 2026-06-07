@@ -1,0 +1,13 @@
+id,effectivePixels,ibisStops,afPoints,batteryShots,cardSlots,screenType,videoBitrate,mount,portabilityLevel
+cam_zve10,2420,0,425,440,1,侧翻屏,100Mbps,索尼E卡口,高
+cam_r100,2410,0,143,430,1,固定屏,120Mbps,佳能RF卡口,高
+cam_r50,2420,0,651,370,1,侧翻触控屏,120Mbps,佳能RF卡口,高
+cam_a7c2,3300,7,759,560,1,侧翻触控屏,200Mbps,索尼E卡口,高
+cam_xt5,4020,7,425,580,2,三向翻折屏,360Mbps,富士X卡口,中
+cam_xs20,2610,7,425,750,1,侧翻触控屏,360Mbps,富士X卡口,高
+cam_fx3,1210,5.5,627,600,2,侧翻触控屏,600Mbps,索尼E卡口,中
+cam_gh7,2520,7.5,779,380,2,侧翻触控屏,800Mbps,松下M43卡口,中
+cam_s9,2420,6.5,779,470,1,侧翻触控屏,200Mbps,L卡口,高
+cam_gr3,2420,3,0,200,1,固定触控屏,,固定镜头,极高
+cam_pocket3,940,0,0,166,1,旋转触控屏,130Mbps,固定镜头云台,极高
+cam_x2d,10000,7,294,420,2,翻折触控屏,,哈苏XCD卡口,低

@@ -1,0 +1,17 @@
+id,name,Label,description,minBudget,maxBudget
+use_travel,旅行随拍,UseCase,重视轻便机身、直出色彩和通用焦段,,
+use_portrait,人像摄影,UseCase,重视全画幅、浅景深、镜头系统和高画质,,
+use_video,视频创作,UseCase,重视4K或8K视频规格、防抖、散热和接口扩展,,
+use_sports,体育生态摄影,UseCase,重视高速连拍、追焦性能和长焦镜头系统,,
+use_beginner,入门学习,UseCase,重视价格友好、重量轻、操作简单和镜头成本,,
+use_professional,商业专业拍摄,UseCase,重视旗舰性能、高可靠性、双卡和专业镜头生态,,
+band_entry,入门预算,PriceBand,5000元以内或略高，适合初学者和轻量记录,0,6000
+band_mid,中端预算,PriceBand,6000到12000元，兼顾画质、便携和成本,6000,12000
+band_high,高端预算,PriceBand,12000到20000元，适合进阶创作和全画幅升级,12000,20000
+band_pro,专业预算,PriceBand,20000元以上，适合旗舰性能和商业用途,20000,999999
+reason_light,轻便机身,Reason,重量较低，适合旅行和日常携带,,
+reason_full_frame,全画幅画质,Reason,全画幅系统具备更好的高感和景深控制潜力,,
+reason_video,视频规格突出,Reason,具备4K60p、4K120p或8K等视频能力,,
+reason_fast,高速连拍,Reason,连拍指标适合运动、生态和新闻场景,,
+reason_lens_ecosystem,镜头生态完善,Reason,可兼容同品牌多支主流镜头,,
+reason_low_cost,预算友好,Reason,机身价格较低，适合入门或备用机,,

@@ -1,0 +1,5 @@
+flask>=3.0.0
+neo4j>=5.20.0
+pyahocorasick>=2.1.0
+py2neo>=2021.2.4
+openai>=1.90.0

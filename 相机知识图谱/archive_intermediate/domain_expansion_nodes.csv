@@ -1,0 +1,32 @@
+id,name,Label,description,minBudget,maxBudget,experience,mainUse,portabilityNeed,sourcePlatform,priceType,price,priceDate,condition,mediaScore,userScore,pros,cons,reviewDate,targetModel
+use_landscape,风光摄影,UseCase,重视高像素、宽容度、广角镜头和三脚架工作流,,,,,,,,,,,,,,,
+use_live,直播带货,UseCase,重视视频追焦、翻转屏、采集卡兼容和连续供电,,,,,,,,,,,,,,,
+use_street,街拍扫街,UseCase,重视轻便、低侵扰、直出色彩和快速启动,,,,,,,,,,,,,,,
+use_studio,商业棚拍,UseCase,重视高像素、色彩、灯光同步和稳定工作流,,,,,,,,,,,,,,,
+profile_beginner_low,新手低预算用户,UserProfile,预算有限、第一次买相机，重视易用、价格和轻便,0,5000,新手,入门学习,高,,,,,,,,,
+profile_beginner_video,新手视频/Vlog用户,UserProfile,想拍短视频、直播或Vlog，希望操作简单,3000,8000,新手,视频创作,高,,,,,,,,,
+profile_travel_light,旅行轻便用户,UserProfile,旅行随拍和街拍，重视重量和便携,5000,15000,进阶,旅行随拍,高,,,,,,,,,
+profile_portrait_ff,人像全画幅用户,UserProfile,想拍人像和虚化，偏好全画幅与镜头生态,8000,20000,进阶,人像摄影,中,,,,,,,,,
+profile_video_pro,专业视频创作者,UserProfile,重视视频规格、防抖、码率、散热和接口,12000,40000,专业,视频创作,中,,,,,,,,,
+profile_sports_bird,体育生态用户,UserProfile,重视高速连拍、追焦和长焦生态,12000,50000,专业,体育生态摄影,低,,,,,,,,,
+profile_studio_commercial,商业棚拍用户,UserProfile,重视高像素、色彩、可靠性和专业工作流,20000,80000,专业,商业棚拍,低,,,,,,,,,
+price_jd_zve10,ZV-E10 京东当前价,PriceRecord,,,,,,,,京东,当前价,2940,2026-06-06,新品,,,,,,ZV-E10
+price_official_zve10,ZV-E10 官方参考价,PriceRecord,,,,,,,,品牌官网,官方参考价,4599,2026-06-06,新品,,,,,,ZV-E10
+price_used_zve10,ZV-E10 二手参考价,PriceRecord,,,,,,,,二手市场,二手价,2600,2026-06-06,二手良品,,,,,,ZV-E10
+price_jd_r100,EOS R100 京东当前价,PriceRecord,,,,,,,,京东,当前价,2499,2026-06-06,新品,,,,,,EOS R100
+price_official_r100,EOS R100 官方参考价,PriceRecord,,,,,,,,品牌官网,官方参考价,3999,2026-06-06,新品,,,,,,EOS R100
+price_used_r100,EOS R100 二手参考价,PriceRecord,,,,,,,,二手市场,二手价,2200,2026-06-06,二手良品,,,,,,EOS R100
+price_jd_r50,EOS R50 京东当前价,PriceRecord,,,,,,,,京东,当前价,5799,2026-06-06,新品,,,,,,EOS R50
+price_official_r50,EOS R50 官方参考价,PriceRecord,,,,,,,,品牌官网,官方参考价,4599,2026-06-06,新品,,,,,,EOS R50
+price_used_r50,EOS R50 二手参考价,PriceRecord,,,,,,,,二手市场,二手价,3800,2026-06-06,二手良品,,,,,,EOS R50
+price_jd_a7c2,Alpha 7C II 京东当前价,PriceRecord,,,,,,,,京东,当前价,11449,2026-06-06,新品,,,,,,Alpha 7C II
+price_official_a7c2,Alpha 7C II 官方参考价,PriceRecord,,,,,,,,品牌官网,官方参考价,13999,2026-06-06,新品,,,,,,Alpha 7C II
+price_used_a7c2,Alpha 7C II 二手参考价,PriceRecord,,,,,,,,二手市场,二手价,10500,2026-06-06,二手良品,,,,,,Alpha 7C II
+price_jd_xt5,X-T5 京东当前价,PriceRecord,,,,,,,,京东,当前价,19698,2026-06-06,新品,,,,,,X-T5
+price_official_xt5,X-T5 官方参考价,PriceRecord,,,,,,,,品牌官网,官方参考价,11990,2026-06-06,新品,,,,,,X-T5
+price_used_xt5,X-T5 二手参考价,PriceRecord,,,,,,,,二手市场,二手价,9000,2026-06-06,二手良品,,,,,,X-T5
+review_zve10,ZV-E10 综合评测,ReviewRecord,,,,,,,,,,,,,8.4,4.7,价格低;Vlog功能完整;轻便,无机身防抖;照片操控一般,2026-06-06,ZV-E10
+review_r100,EOS R100 综合评测,ReviewRecord,,,,,,,,,,,,,7.8,4.6,价格低;操作简单;佳能色彩,屏幕和连拍较基础;视频裁切明显,2026-06-06,EOS R100
+review_r50,EOS R50 综合评测,ReviewRecord,,,,,,,,,,,,,8.5,4.8,对焦好;轻便;适合新手,镜头生态成本需要考虑,2026-06-06,EOS R50
+review_a7c2,Alpha 7C II 综合评测,ReviewRecord,,,,,,,,,,,,,9.1,4.8,轻便全画幅;AI对焦强;视频照片均衡,取景器较小;单卡槽,2026-06-06,Alpha 7C II
+review_xt5,X-T5 综合评测,ReviewRecord,,,,,,,,,,,,,9.0,4.8,高像素;胶片模拟;直出好看,视频散热和追焦不如专业视频机,2026-06-06,X-T5

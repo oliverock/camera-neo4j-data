@@ -1,0 +1,1163 @@
+﻿edge_id,from_id,from_name,from_label,to_id,to_name,to_label,type,score,note,properties_json
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102788,cam_500cm,500 C/M,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241668,cam_500cm,500 C/M,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869444,cam_500cm,500 C/M,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847236,cam_500cm,500 C/M,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613892,cam_500cm,500 C/M,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,85,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 85}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102789,cam_503cw,503CW,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241669,cam_503cw,503CW,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869445,cam_503cw,503CW,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847237,cam_503cw,503CW,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613893,cam_503cw,503CW,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,84,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 84}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102780,cam_907x100c,907X & CFV 100C,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241660,cam_907x100c,907X & CFV 100C,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869436,cam_907x100c,907X & CFV 100C,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847228,cam_907x100c,907X & CFV 100C,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613884,cam_907x100c,907X & CFV 100C,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,93,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 93}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102779,cam_907x50c,907X 50C,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241659,cam_907x50c,907X 50C,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869435,cam_907x50c,907X 50C,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847227,cam_907x50c,907X 50C,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613883,cam_907x50c,907X 50C,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,94,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102704,cam_a1,Alpha 1,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395162,cam_a1,Alpha 1,CameraModel,lens_s200600,FE 200-600mm F5.6-6.3 G OSS,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241584,cam_a1,Alpha 1,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869360,cam_a1,Alpha 1,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847152,cam_a1,Alpha 1,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613808,cam_a1,Alpha 1,CameraModel,use_professional,商业专业拍摄,UseCase,SUITABLE_FOR,96,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102599,cam_a6400,Alpha 6400,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474823,cam_a6400,Alpha 6400,CameraModel,lens_s1650p,E PZ 16-50mm F3.5-5.6 OSS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160071,cam_a6400,Alpha 6400,CameraModel,lens_s18135,E 18-135mm F3.5-5.6 OSS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922040323849846853,cam_a6400,Alpha 6400,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919789623547789372,cam_a6400,Alpha 6400,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847047,cam_a6400,Alpha 6400,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613703,cam_a6400,Alpha 6400,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,84,对焦强，入门进阶皆可,"{""note"": ""对焦强，入门进阶皆可"", ""score"": 84}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298951,cam_a6400,Alpha 6400,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,82,机身轻便,"{""note"": ""机身轻便"", ""score"": 82}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102539,cam_a6700,Alpha 6700,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474763,cam_a6700,Alpha 6700,CameraModel,lens_s2470,FE 24-70mm F2.8 GM II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845259,cam_a6700,Alpha 6700,CameraModel,lens_s50,FE 50mm F1.2 GM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160011,cam_a6700,Alpha 6700,CameraModel,lens_s70200,FE 70-200mm F2.8 GM OSS II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241419,cam_a6700,Alpha 6700,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869195,cam_a6700,Alpha 6700,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846987,cam_a6700,Alpha 6700,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613643,cam_a6700,Alpha 6700,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,88,轻便APS-C机身，兼顾照片和视频,"{""note"": ""轻便APS-C机身，兼顾照片和视频"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102610,cam_a7c,Alpha 7C,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160082,cam_a7c,Alpha 7C,CameraModel,lens_s24105,FE 24-105mm F4 G OSS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474834,cam_a7c,Alpha 7C,CameraModel,lens_s2860,FE 28-60mm F4-5.6,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845330,cam_a7c,Alpha 7C,CameraModel,lens_s35f18,FE 35mm F1.8,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1159678003559530578,cam_a7c,Alpha 7C,CameraModel,lens_s85f18,FE 85mm F1.8,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6926543923477217344,cam_a7c,Alpha 7C,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6937804022057271357,cam_a7c,Alpha 7C,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847058,cam_a7c,Alpha 7C,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613714,cam_a7c,Alpha 7C,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,88,轻便全画幅老款,"{""note"": ""轻便全画幅老款"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102769,cam_a7c2,Alpha 7C II,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395160,cam_a7c2,Alpha 7C II,CameraModel,lens_s20f18g,FE 20mm F1.8 G,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160241,cam_a7c2,Alpha 7C II,CameraModel,lens_s24105,FE 24-105mm F4 G OSS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845489,cam_a7c2,Alpha 7C II,CameraModel,lens_s2470,FE 24-70mm F2.8 GM II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474993,cam_a7c2,Alpha 7C II,CameraModel,lens_s2860,FE 28-60mm F4-5.6,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395157,cam_a7c2,Alpha 7C II,CameraModel,lens_s35f18,FE 35mm F1.8,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395159,cam_a7c2,Alpha 7C II,CameraModel,lens_s55f18,Sonnar T* FE 55mm F1.8 ZA,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395158,cam_a7c2,Alpha 7C II,CameraModel,lens_s85f18,FE 85mm F1.8,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922040323849846849,cam_a7c2,Alpha 7C II,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919788524036161600,cam_a7c2,Alpha 7C II,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922040323849846850,cam_a7c2,Alpha 7C II,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6931048622616215614,cam_a7c2,Alpha 7C II,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847217,cam_a7c2,Alpha 7C II,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917535624710848657,cam_a7c2,Alpha 7C II,CameraModel,use_landscape,风光摄影,UseCase,SUITABLE_FOR,84,轻便高像素全画幅，适合旅行风光,"{""note"": ""轻便高像素全画幅，适合旅行风光"", ""score"": 84}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299121,cam_a7c2,Alpha 7C II,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,90,全画幅画质和对焦适合人像,"{""note"": ""全画幅画质和对焦适合人像"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917535624710848659,cam_a7c2,Alpha 7C II,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,90,轻便全画幅适合扫街,"{""note"": ""轻便全画幅适合扫街"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613873,cam_a7c2,Alpha 7C II,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,96,轻便全画幅，适合旅行随拍,"{""note"": ""轻便全画幅，适合旅行随拍"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919787424524533816,cam_a7c2,Alpha 7C II,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,88,支持4K视频和轻便创作,"{""note"": ""支持4K视频和轻便创作"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102600,cam_a7cr,Alpha 7CR,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160072,cam_a7cr,Alpha 7CR,CameraModel,lens_s24105,FE 24-105mm F4 G OSS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474824,cam_a7cr,Alpha 7CR,CameraModel,lens_s2860,FE 28-60mm F4-5.6,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6924292123663532097,cam_a7cr,Alpha 7CR,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6933300422429900863,cam_a7cr,Alpha 7CR,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847048,cam_a7cr,Alpha 7CR,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298952,cam_a7cr,Alpha 7CR,CameraModel,use_professional,商业专业拍摄,UseCase,SUITABLE_FOR,86,高像素适合商业风光,"{""note"": ""高像素适合商业风光"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613704,cam_a7cr,Alpha 7CR,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,88,轻便高像素,"{""note"": ""轻便高像素"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102536,cam_a7m3,Alpha 7 III,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474760,cam_a7m3,Alpha 7 III,CameraModel,lens_s2470,FE 24-70mm F2.8 GM II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845256,cam_a7m3,Alpha 7 III,CameraModel,lens_s50,FE 50mm F1.2 GM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160008,cam_a7m3,Alpha 7 III,CameraModel,lens_s70200,FE 70-200mm F2.8 GM OSS II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869192,cam_a7m3,Alpha 7 III,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846984,cam_a7m3,Alpha 7 III,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155177702467043335,cam_a7m4,Alpha 7 IV,CameraModel,index_10fps,10fps 连拍速度,ParameterIndex,ACHIEVES_INDEX,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152925902653358087,cam_a7m4,Alpha 7 IV,CameraModel,index_4k60p,4K 60p 视频规格,ParameterIndex,ACHIEVES_INDEX,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102535,cam_a7m4,Alpha 7 IV,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709913,cam_a7m4,Alpha 7 IV,CameraModel,lens_s1224f4,FE 12-24mm F4 G,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709912,cam_a7m4,Alpha 7 IV,CameraModel,lens_s20f18g,FE 20mm F1.8 G,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474759,cam_a7m4,Alpha 7 IV,CameraModel,lens_s2470,FE 24-70mm F2.8 GM II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709909,cam_a7m4,Alpha 7 IV,CameraModel,lens_s35f18,FE 35mm F1.8,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845255,cam_a7m4,Alpha 7 IV,CameraModel,lens_s50,FE 50mm F1.2 GM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709911,cam_a7m4,Alpha 7 IV,CameraModel,lens_s55f18,Sonnar T* FE 55mm F1.8 ZA,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160007,cam_a7m4,Alpha 7 IV,CameraModel,lens_s70200,FE 70-200mm F2.8 GM OSS II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709910,cam_a7m4,Alpha 7 IV,CameraModel,lens_s85f18,FE 85mm F1.8,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152924803141730311,cam_a7m4,Alpha 7 IV,CameraModel,comp_bionz_xr,BIONZ XR,Component,EQUIPPED_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155176602955415559,cam_a7m4,Alpha 7 IV,CameraModel,comp_exmor_r,Exmor R CMOS,Component,EQUIPPED_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917536724222476353,cam_a7m4,Alpha 7 IV,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919788524036161604,cam_a7m4,Alpha 7 IV,CameraModel,reason_lens_ecosystem,镜头生态完善,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917536724222476354,cam_a7m4,Alpha 7 IV,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917537823734104126,cam_a7m4,Alpha 7 IV,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846983,cam_a7m4,Alpha 7 IV,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152927002164985863,cam_a7m4,Alpha 7 IV,CameraModel,cam_a7m3,Alpha 7 III,CameraModel,SUCCESSOR_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613639,cam_a7m4,Alpha 7 IV,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,88,全画幅均衡机型，镜头生态完整,"{""note"": ""全画幅均衡机型，镜头生态完整"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917535624710848568,cam_a7m4,Alpha 7 IV,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,90,支持4K60p，视频和照片能力均衡,"{""note"": ""支持4K60p，视频和照片能力均衡"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102537,cam_a7r5,Alpha 7R V,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1159678003559530505,cam_a7r5,Alpha 7R V,CameraModel,lens_s1224f4,FE 12-24mm F4 G,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474761,cam_a7r5,Alpha 7R V,CameraModel,lens_s2470,FE 24-70mm F2.8 GM II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845257,cam_a7r5,Alpha 7R V,CameraModel,lens_s50,FE 50mm F1.2 GM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160009,cam_a7r5,Alpha 7R V,CameraModel,lens_s70200,FE 70-200mm F2.8 GM OSS II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152924803141730313,cam_a7r5,Alpha 7R V,CameraModel,comp_bionz_xr,BIONZ XR,Component,EQUIPPED_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869193,cam_a7r5,Alpha 7R V,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846985,cam_a7r5,Alpha 7R V,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102705,cam_a7s3,Alpha 7S III,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241585,cam_a7s3,Alpha 7S III,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869361,cam_a7s3,Alpha 7S III,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847153,cam_a7s3,Alpha 7S III,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613809,cam_a7s3,Alpha 7S III,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,95,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152925902653358090,cam_a9m3,Alpha 9 III,CameraModel,index_120fps,120fps 连拍速度,ParameterIndex,ACHIEVES_INDEX,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102538,cam_a9m3,Alpha 9 III,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709914,cam_a9m3,Alpha 9 III,CameraModel,lens_s200600,FE 200-600mm F5.6-6.3 G OSS,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474762,cam_a9m3,Alpha 9 III,CameraModel,lens_s2470,FE 24-70mm F2.8 GM II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845258,cam_a9m3,Alpha 9 III,CameraModel,lens_s50,FE 50mm F1.2 GM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160010,cam_a9m3,Alpha 9 III,CameraModel,lens_s70200,FE 70-200mm F2.8 GM OSS II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152924803141730314,cam_a9m3,Alpha 9 III,CameraModel,comp_bionz_xr,BIONZ XR,Component,EQUIPPED_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155176602955415562,cam_a9m3,Alpha 9 III,CameraModel,comp_exmor_rs,Exmor RS CMOS,Component,EQUIPPED_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917536724222476355,cam_a9m3,Alpha 9 III,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917537823734104127,cam_a9m3,Alpha 9 III,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846986,cam_a9m3,Alpha 9 III,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613642,cam_a9m3,Alpha 9 III,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,98,高速连拍指标突出，适合运动题材,"{""note"": ""高速连拍指标突出，适合运动题材"", ""score"": 98}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102793,cam_action3,Osmo Action 3,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241673,cam_action3,Osmo Action 3,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869449,cam_action3,Osmo Action 3,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847241,cam_action3,Osmo Action 3,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613897,cam_action3,Osmo Action 3,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,94,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102792,cam_action4,Osmo Action 4,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241672,cam_action4,Osmo Action 4,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869448,cam_action4,Osmo Action 4,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847240,cam_action4,Osmo Action 4,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613896,cam_action4,Osmo Action 4,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,95,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102791,cam_action5pro,Osmo Action 5 Pro,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241671,cam_action5pro,Osmo Action 5 Pro,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869447,cam_action5pro,Osmo Action 5 Pro,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847239,cam_action5pro,Osmo Action 5 Pro,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613895,cam_action5pro,Osmo Action 5 Pro,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,96,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102798,cam_air3,Air 3,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241678,cam_air3,Air 3,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869454,cam_air3,Air 3,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847246,cam_air3,Air 3,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613902,cam_air3,Air 3,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,89,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 89}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102799,cam_air3s,Air 3S,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241679,cam_air3s,Air 3S,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869455,cam_air3s,Air 3S,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847247,cam_air3s,Air 3S,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613903,cam_air3s,Air 3S,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,88,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102761,cam_air_a01,Air A01,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241641,cam_air_a01,Air A01,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869417,cam_air_a01,Air A01,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847209,cam_air_a01,Air A01,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613865,cam_air_a01,Air A01,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,84,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 84}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102790,cam_arcbody,ArcBody,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241670,cam_arcbody,ArcBody,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869446,cam_arcbody,ArcBody,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847238,cam_arcbody,ArcBody,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613894,cam_arcbody,ArcBody,CameraModel,use_landscape,风光摄影,UseCase,SUITABLE_FOR,83,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 83}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102802,cam_avata2,Avata 2,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241682,cam_avata2,Avata 2,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869458,cam_avata2,Avata 2,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847250,cam_avata2,Avata 2,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613906,cam_avata2,Avata 2,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,85,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 85}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102743,cam_cl,CL,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241623,cam_cl,CL,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869399,cam_cl,CL,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847191,cam_cl,CL,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613847,cam_cl,CL,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,89,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 89}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102745,cam_dlux7,D-LUX 7,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241625,cam_dlux7,D-LUX 7,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869401,cam_dlux7,D-LUX 7,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847193,cam_dlux7,D-LUX 7,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613849,cam_dlux7,D-LUX 7,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,87,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 87}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102662,cam_dlux8,D-LUX 8,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6933299322918273088,cam_dlux8,D-LUX 8,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6935552222243586110,cam_dlux8,D-LUX 8,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847110,cam_dlux8,D-LUX 8,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299014,cam_dlux8,D-LUX 8,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,72,固定镜头适合日常人像,"{""note"": ""固定镜头适合日常人像"", ""score"": 72}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613766,cam_dlux8,D-LUX 8,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,84,高端便携旅行机,"{""note"": ""高端便携旅行机"", ""score"": 84}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102752,cam_em10m4,E-M10 Mark IV,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241632,cam_em10m4,E-M10 Mark IV,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869408,cam_em10m4,E-M10 Mark IV,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847200,cam_em10m4,E-M10 Mark IV,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613856,cam_em10m4,E-M10 Mark IV,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,93,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 93}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102758,cam_em1m2,E-M1 Mark II,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241638,cam_em1m2,E-M1 Mark II,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869414,cam_em1m2,E-M1 Mark II,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847206,cam_em1m2,E-M1 Mark II,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613862,cam_em1m2,E-M1 Mark II,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,87,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 87}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102749,cam_em1m3,E-M1 Mark III,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241629,cam_em1m3,E-M1 Mark III,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869405,cam_em1m3,E-M1 Mark III,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847197,cam_em1m3,E-M1 Mark III,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613853,cam_em1m3,E-M1 Mark III,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,96,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102750,cam_em1x,E-M1X,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241630,cam_em1x,E-M1X,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869406,cam_em1x,E-M1X,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847198,cam_em1x,E-M1X,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613854,cam_em1x,E-M1X,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,95,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102759,cam_em5m2,E-M5 Mark II,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241639,cam_em5m2,E-M5 Mark II,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869415,cam_em5m2,E-M5 Mark II,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847207,cam_em5m2,E-M5 Mark II,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613863,cam_em5m2,E-M5 Mark II,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,86,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102751,cam_em5m3,E-M5 Mark III,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241631,cam_em5m3,E-M5 Mark III,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869407,cam_em5m3,E-M5 Mark III,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847199,cam_em5m3,E-M5 Mark III,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613855,cam_em5m3,E-M5 Mark III,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,94,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102754,cam_epl10,E-PL10,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241634,cam_epl10,E-PL10,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869410,cam_epl10,E-PL10,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847202,cam_epl10,E-PL10,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613858,cam_epl10,E-PL10,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,91,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 91}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102760,cam_epl9,E-PL9,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241640,cam_epl9,E-PL9,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869416,cam_epl9,E-PL9,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847208,cam_epl9,E-PL9,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613864,cam_epl9,E-PL9,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,85,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 85}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102540,cam_fx3,FX3,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1159678003559530508,cam_fx3,FX3,CameraModel,lens_s20f18g,FE 20mm F1.8 G,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474764,cam_fx3,FX3,CameraModel,lens_s2470,FE 24-70mm F2.8 GM II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845260,cam_fx3,FX3,CameraModel,lens_s50,FE 50mm F1.2 GM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160012,cam_fx3,FX3,CameraModel,lens_s70200,FE 70-200mm F2.8 GM OSS II,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241420,cam_fx3,FX3,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919789623547789375,cam_fx3,FX3,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846988,cam_fx3,FX3,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613644,cam_fx3,FX3,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,96,视频定位机型，适合专业视频创作,"{""note"": ""视频定位机型，适合专业视频创作"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102661,cam_g100d,Lumix G100D,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474885,cam_g100d,Lumix G100D,CameraModel,lens_p1232,Lumix G 12-32mm F3.5-5.6,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395182,cam_g100d,Lumix G100D,CameraModel,lens_p1260,Lumix G 12-60mm F2.8-4 OIS,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6933299322918273093,cam_g100d,Lumix G100D,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6940054722359328834,cam_g100d,Lumix G100D,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6931048622616215612,cam_g100d,Lumix G100D,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847109,cam_g100d,Lumix G100D,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613765,cam_g100d,Lumix G100D,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,86,价格低且适合Vlog入门,"{""note"": ""价格低且适合Vlog入门"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299013,cam_g100d,Lumix G100D,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,86,轻量视频机,"{""note"": ""轻量视频机"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102733,cam_g95,Lumix G95,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241613,cam_g95,Lumix G95,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869389,cam_g95,Lumix G95,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847181,cam_g95,Lumix G95,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613837,cam_g95,Lumix G95,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,88,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102730,cam_g9m2,Lumix G9 II,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241610,cam_g9m2,Lumix G9 II,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869386,cam_g9m2,Lumix G9 II,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847178,cam_g9m2,Lumix G9 II,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613834,cam_g9m2,Lumix G9 II,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,91,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 91}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102555,cam_gfx100m2,GFX100 II,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6931048622616215615,cam_gfx100m2,GFX100 II,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847003,cam_gfx100m2,GFX100 II,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613659,cam_gfx100m2,GFX100 II,CameraModel,use_professional,商业专业拍摄,UseCase,SUITABLE_FOR,90,中画幅高像素，适合商业棚拍,"{""note"": ""中画幅高像素，适合商业棚拍"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102724,cam_gfx100s,GFX100S,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241604,cam_gfx100s,GFX100S,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869380,cam_gfx100s,GFX100S,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847172,cam_gfx100s,GFX100S,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613828,cam_gfx100s,GFX100S,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,91,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 91}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102723,cam_gfx50s2,GFX 50S II,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241603,cam_gfx50s2,GFX 50S II,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869379,cam_gfx50s2,GFX 50S II,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847171,cam_gfx50s2,GFX 50S II,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613827,cam_gfx50s2,GFX 50S II,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,92,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102732,cam_gh5m2,Lumix GH5 II,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241612,cam_gh5m2,Lumix GH5 II,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869388,cam_gh5m2,Lumix GH5 II,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847180,cam_gh5m2,Lumix GH5 II,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613836,cam_gh5m2,Lumix GH5 II,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,89,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 89}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102731,cam_gh6,Lumix GH6,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241611,cam_gh6,Lumix GH6,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869387,cam_gh6,Lumix GH6,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847179,cam_gh6,Lumix GH6,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613835,cam_gh6,Lumix GH6,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,90,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102660,cam_gh7,Lumix GH7,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474884,cam_gh7,Lumix GH7,CameraModel,lens_p1232,Lumix G 12-32mm F3.5-5.6,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709934,cam_gh7,Lumix GH7,CameraModel,lens_p1260,Lumix G 12-60mm F2.8-4 OIS,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6937802922545643586,cam_gh7,Lumix GH7,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6933300422429900862,cam_gh7,Lumix GH7,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847108,cam_gh7,Lumix GH7,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157431701303984260,cam_gh7,Lumix GH7,CameraModel,use_live,直播带货,UseCase,SUITABLE_FOR,94,专业视频规格适合直播和视频工作流,"{""note"": ""专业视频规格适合直播和视频工作流"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299012,cam_gh7,Lumix GH7,CameraModel,use_professional,商业专业拍摄,UseCase,SUITABLE_FOR,86,适合专业视频工作流,"{""note"": ""适合专业视频工作流"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613764,cam_gh7,Lumix GH7,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,96,M43视频旗舰,"{""note"": ""M43视频旗舰"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102767,cam_gr,GR,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241647,cam_gr,GR,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869423,cam_gr,GR,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847215,cam_gr,GR,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613871,cam_gr,GR,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,91,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 91}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102762,cam_gr2,GR II,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241642,cam_gr2,GR II,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869418,cam_gr2,GR II,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847210,cam_gr2,GR II,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613866,cam_gr2,GR II,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,96,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102666,cam_gr3,GR III,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6935551122731958336,cam_gr3,GR III,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6951314820939382845,cam_gr3,GR III,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847114,cam_gr3,GR III,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299018,cam_gr3,GR III,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,78,固定镜头培养构图,"{""note"": ""固定镜头培养构图"", ""score"": 78}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157431701303984266,cam_gr3,GR III,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,96,街拍经典便携机,"{""note"": ""街拍经典便携机"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613770,cam_gr3,GR III,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,92,口袋街拍旅行机,"{""note"": ""口袋街拍旅行机"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102765,cam_gr3street,GR III Street Edition,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241645,cam_gr3street,GR III Street Edition,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869421,cam_gr3street,GR III Street Edition,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847213,cam_gr3street,GR III Street Edition,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613869,cam_gr3street,GR III Street Edition,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,93,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 93}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102667,cam_gr3x,GR IIIx,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6937802922545643584,cam_gr3x,GR IIIx,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6953566620753068093,cam_gr3x,GR IIIx,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847115,cam_gr3x,GR IIIx,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299019,cam_gr3x,GR IIIx,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,78,40mm视角适合环境人像,"{""note"": ""40mm视角适合环境人像"", ""score"": 78}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157431701303984267,cam_gr3x,GR IIIx,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,95,40mm视角适合街拍和环境人像,"{""note"": ""40mm视角适合街拍和环境人像"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613771,cam_gr3x,GR IIIx,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,90,街拍便携,"{""note"": ""街拍便携"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102764,cam_gr3xhdf,GR IIIx HDF,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241644,cam_gr3xhdf,GR IIIx HDF,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869420,cam_gr3xhdf,GR IIIx HDF,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847212,cam_gr3xhdf,GR IIIx HDF,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613868,cam_gr3xhdf,GR IIIx HDF,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,94,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102766,cam_gr3xurban,GR IIIx Urban Edition,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241646,cam_gr3xurban,GR IIIx Urban Edition,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869422,cam_gr3xurban,GR IIIx Urban Edition,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847214,cam_gr3xurban,GR IIIx Urban Edition,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613870,cam_gr3xurban,GR IIIx Urban Edition,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,92,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102763,cam_griiihdf,GR III HDF,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241643,cam_griiihdf,GR III HDF,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869419,cam_griiihdf,GR III HDF,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847211,cam_griiihdf,GR III HDF,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613867,cam_griiihdf,GR III HDF,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,95,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102734,cam_gx9,Lumix GX9,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241614,cam_gx9,Lumix GX9,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869390,cam_gx9,Lumix GX9,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847182,cam_gx9,Lumix GX9,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613838,cam_gx9,Lumix GX9,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,87,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 87}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102768,cam_gxr,GXR,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241648,cam_gxr,GXR,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869424,cam_gxr,GXR,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847216,cam_gxr,GXR,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613872,cam_gxr,GXR,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,90,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102784,cam_h4d40,H4D-40,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241664,cam_h4d40,H4D-40,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869440,cam_h4d40,H4D-40,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847232,cam_h4d40,H4D-40,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613888,cam_h4d40,H4D-40,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,89,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 89}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102783,cam_h5d50c,H5D-50c,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241663,cam_h5d50c,H5D-50c,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869439,cam_h5d50c,H5D-50c,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847231,cam_h5d50c,H5D-50c,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613887,cam_h5d50c,H5D-50c,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,90,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102781,cam_h6d100c,H6D-100c,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241661,cam_h6d100c,H6D-100c,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869437,cam_h6d100c,H6D-100c,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847229,cam_h6d100c,H6D-100c,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613885,cam_h6d100c,H6D-100c,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,92,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102782,cam_h6d50c,H6D-50c,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241662,cam_h6d50c,H6D-50c,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869438,cam_h6d50c,H6D-50c,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847230,cam_h6d50c,H6D-50c,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613886,cam_h6d50c,H6D-50c,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,91,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 91}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102787,cam_hv,HV,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241667,cam_hv,HV,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869443,cam_hv,HV,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847235,cam_hv,HV,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613891,cam_hv,HV,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,86,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102803,cam_inspire3,Inspire 3,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241683,cam_inspire3,Inspire 3,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869459,cam_inspire3,Inspire 3,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847251,cam_inspire3,Inspire 3,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613907,cam_inspire3,Inspire 3,CameraModel,use_professional,商业专业拍摄,UseCase,SUITABLE_FOR,84,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 84}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102785,cam_lunar,Lunar,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241665,cam_lunar,Lunar,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869441,cam_lunar,Lunar,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847233,cam_lunar,Lunar,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613889,cam_lunar,Lunar,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,88,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102735,cam_lx100m2,Lumix LX100 II,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241615,cam_lx100m2,Lumix LX100 II,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869391,cam_lx100m2,Lumix LX100 II,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847183,cam_lx100m2,Lumix LX100 II,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613839,cam_lx100m2,Lumix LX100 II,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,86,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102748,cam_m10r,M10-R,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241628,cam_m10r,M10-R,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869404,cam_m10r,M10-R,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847196,cam_m10r,M10-R,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613852,cam_m10r,M10-R,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,84,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 84}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102736,cam_m11,M11,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241616,cam_m11,M11,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869392,cam_m11,M11,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847184,cam_m11,M11,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613840,cam_m11,M11,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,96,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102738,cam_m11m,M11 Monochrom,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241618,cam_m11m,M11 Monochrom,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869394,cam_m11m,M11 Monochrom,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847186,cam_m11m,M11 Monochrom,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613842,cam_m11m,M11 Monochrom,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,94,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102737,cam_m11p,M11-P,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241617,cam_m11p,M11-P,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869393,cam_m11p,M11-P,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847185,cam_m11p,M11-P,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613841,cam_m11p,M11-P,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,95,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102797,cam_mavic3classic,Mavic 3 Classic,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241677,cam_mavic3classic,Mavic 3 Classic,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869453,cam_mavic3classic,Mavic 3 Classic,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847245,cam_mavic3classic,Mavic 3 Classic,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613901,cam_mavic3classic,Mavic 3 Classic,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,90,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102796,cam_mavic3pro,Mavic 3 Pro,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241676,cam_mavic3pro,Mavic 3 Pro,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869452,cam_mavic3pro,Mavic 3 Pro,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847244,cam_mavic3pro,Mavic 3 Pro,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613900,cam_mavic3pro,Mavic 3 Pro,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,91,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 91}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102801,cam_mini3pro,Mini 3 Pro,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241681,cam_mini3pro,Mini 3 Pro,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869457,cam_mini3pro,Mini 3 Pro,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847249,cam_mini3pro,Mini 3 Pro,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613905,cam_mini3pro,Mini 3 Pro,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,86,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102800,cam_mini4pro,Mini 4 Pro,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241680,cam_mini4pro,Mini 4 Pro,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869456,cam_mini4pro,Mini 4 Pro,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847248,cam_mini4pro,Mini 4 Pro,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613904,cam_mini4pro,Mini 4 Pro,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,87,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 87}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102757,cam_om1,OM-1,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241637,cam_om1,OM-1,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869413,cam_om1,OM-1,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847205,cam_om1,OM-1,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613861,cam_om1,OM-1,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,88,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102665,cam_om1m2,OM-1 Mark II,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474889,cam_om1m2,OM-1 Mark II,CameraModel,lens_om1245,M.Zuiko 12-45mm F4 PRO,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709936,cam_om1m2,OM-1 Mark II,CameraModel,lens_om300f4,M.Zuiko 300mm F4 IS PRO,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709935,cam_om1m2,OM-1 Mark II,CameraModel,lens_om40150,M.Zuiko 40-150mm F2.8 PRO,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922040323849846851,cam_om1m2,OM-1 Mark II,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6937804022057271358,cam_om1m2,OM-1 Mark II,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847113,cam_om1m2,OM-1 Mark II,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299017,cam_om1m2,OM-1 Mark II,CameraModel,use_professional,商业专业拍摄,UseCase,SUITABLE_FOR,82,户外旗舰机身,"{""note"": ""户外旗舰机身"", ""score"": 82}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613769,cam_om1m2,OM-1 Mark II,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,92,高速连拍与生态拍摄,"{""note"": ""高速连拍与生态拍摄"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102664,cam_om5,OM-5,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474888,cam_om5,OM-5,CameraModel,lens_om1245,M.Zuiko 12-45mm F4 PRO,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395183,cam_om5,OM-5,CameraModel,lens_om40150,M.Zuiko 40-150mm F2.8 PRO,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241544,cam_om5,OM-5,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6949063021125697597,cam_om5,OM-5,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847112,cam_om5,OM-5,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299016,cam_om5,OM-5,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,76,M43长焦生态适合入门生态,"{""note"": ""M43长焦生态适合入门生态"", ""score"": 76}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613768,cam_om5,OM-5,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,88,轻量防护适合旅行户外,"{""note"": ""轻量防护适合旅行户外"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102795,cam_osmo_action,Osmo Action,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241675,cam_osmo_action,Osmo Action,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869451,cam_osmo_action,Osmo Action,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847243,cam_osmo_action,Osmo Action,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613899,cam_osmo_action,Osmo Action,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,92,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102753,cam_penf,PEN-F,CameraModel,cat_m43,M43微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241633,cam_penf,PEN-F,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869409,cam_penf,PEN-F,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847201,cam_penf,PEN-F,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613857,cam_penf,PEN-F,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,92,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102794,cam_pocket2,Osmo Pocket 2,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241674,cam_pocket2,Osmo Pocket 2,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869450,cam_pocket2,Osmo Pocket 2,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847242,cam_pocket2,Osmo Pocket 2,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613898,cam_pocket2,Osmo Pocket 2,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,93,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 93}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102669,cam_pocket3,Osmo Pocket 3,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6940054722359328832,cam_pocket3,Osmo Pocket 3,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6942306522173014082,cam_pocket3,Osmo Pocket 3,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6933300422429900860,cam_pocket3,Osmo Pocket 3,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847117,cam_pocket3,Osmo Pocket 3,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157431701303984269,cam_pocket3,Osmo Pocket 3,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,90,操作简单适合小白视频入门,"{""note"": ""操作简单适合小白视频入门"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1159683501117669517,cam_pocket3,Osmo Pocket 3,CameraModel,use_live,直播带货,UseCase,SUITABLE_FOR,90,云台稳定和便携适合直播Vlog,"{""note"": ""云台稳定和便携适合直播Vlog"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299021,cam_pocket3,Osmo Pocket 3,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,92,轻便口袋设备适合旅行记录,"{""note"": ""轻便口袋设备适合旅行记录"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613773,cam_pocket3,Osmo Pocket 3,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,94,云台稳定适合Vlog,"{""note"": ""云台稳定适合Vlog"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102739,cam_q2,Q2,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395185,cam_q2,Q2,CameraModel,lens_lux28,Summilux 28mm F1.7 ASPH,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241619,cam_q2,Q2,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869395,cam_q2,Q2,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847187,cam_q2,Q2,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613843,cam_q2,Q2,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,93,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 93}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102663,cam_q3,Q3,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709937,cam_q3,Q3,CameraModel,lens_lux28,Summilux 28mm F1.7 ASPH,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6933299322918273089,cam_q3,Q3,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6935552222243586111,cam_q3,Q3,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847111,cam_q3,Q3,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299015,cam_q3,Q3,CameraModel,use_professional,商业专业拍摄,UseCase,SUITABLE_FOR,80,高端全画幅固定镜头,"{""note"": ""高端全画幅固定镜头"", ""score"": 80}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613767,cam_q3,Q3,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,82,高画质便携全画幅,"{""note"": ""高画质便携全画幅"", ""score"": 82}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102711,cam_r1,EOS R1,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241591,cam_r1,EOS R1,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869367,cam_r1,EOS R1,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847159,cam_r1,EOS R1,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613815,cam_r1,EOS R1,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,92,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102602,cam_r10,EOS R10,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160074,cam_r10,EOS R10,CameraModel,lens_c18150,RF-S 18-150mm F3.5-6.3 IS STM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474826,cam_r10,EOS R10,CameraModel,lens_c1845,RF-S 18-45mm F4.5-6.3 IS STM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241482,cam_r10,EOS R10,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6924293223175159869,cam_r10,EOS R10,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847050,cam_r10,EOS R10,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613706,cam_r10,EOS R10,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,86,对焦和连拍表现适合进阶,"{""note"": ""对焦和连拍表现适合进阶"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298954,cam_r10,EOS R10,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,82,APS-C连拍适合入门运动题材,"{""note"": ""APS-C连拍适合入门运动题材"", ""score"": 82}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102601,cam_r100,EOS R100,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160073,cam_r100,EOS R100,CameraModel,lens_c18150,RF-S 18-150mm F3.5-6.3 IS STM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474825,cam_r100,EOS R100,CameraModel,lens_c1845,RF-S 18-45mm F4.5-6.3 IS STM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395168,cam_r100,EOS R100,CameraModel,lens_c5018,RF 50mm F1.8 STM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6924292123663532101,cam_r100,EOS R100,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922041423361474620,cam_r100,EOS R100,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847049,cam_r100,EOS R100,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613705,cam_r100,EOS R100,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,96,低价轻便，适合学生家庭,"{""note"": ""低价轻便，适合学生家庭"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919787424524533906,cam_r100,EOS R100,CameraModel,use_live,直播带货,UseCase,SUITABLE_FOR,82,低价4K入门直播选择,"{""note"": ""低价4K入门直播选择"", ""score"": 82}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922039224338219155,cam_r100,EOS R100,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,78,轻便低价,"{""note"": ""轻便低价"", ""score"": 78}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298953,cam_r100,EOS R100,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,80,轻便易携带,"{""note"": ""轻便易携带"", ""score"": 80}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102708,cam_r10_old,EOS R10,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241588,cam_r10_old,EOS R10,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869364,cam_r10_old,EOS R10,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847156,cam_r10_old,EOS R10,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613812,cam_r10_old,EOS R10,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,95,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102546,cam_r3,EOS R3,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709918,cam_r3,EOS R3,CameraModel,lens_c100500,RF 100-500mm F4.5-7.1 L IS USM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474770,cam_r3,EOS R3,CameraModel,lens_c2470,RF 24-70mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845266,cam_r3,EOS R3,CameraModel,lens_c50,RF 50mm F1.2 L USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160018,cam_r3,EOS R3,CameraModel,lens_c70200,RF 70-200mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241426,cam_r3,EOS R3,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6924293223175159871,cam_r3,EOS R3,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846994,cam_r3,EOS R3,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613650,cam_r3,EOS R3,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,90,旗舰级机身，适合新闻和体育,"{""note"": ""旗舰级机身，适合新闻和体育"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102707,cam_r5,EOS R5,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241587,cam_r5,EOS R5,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869363,cam_r5,EOS R5,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847155,cam_r5,EOS R5,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613811,cam_r5,EOS R5,CameraModel,use_landscape,风光摄影,UseCase,SUITABLE_FOR,96,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102545,cam_r50,EOS R50,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474769,cam_r50,EOS R50,CameraModel,lens_c2470,RF 24-70mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845265,cam_r50,EOS R50,CameraModel,lens_c50,RF 50mm F1.2 L USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709920,cam_r50,EOS R50,CameraModel,lens_c5018,RF 50mm F1.8 STM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160017,cam_r50,EOS R50,CameraModel,lens_c70200,RF 70-200mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241425,cam_r50,EOS R50,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869201,cam_r50,EOS R50,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846993,cam_r50,EOS R50,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613649,cam_r50,EOS R50,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,95,价格低、重量轻，适合入门学习,"{""note"": ""价格低、重量轻，适合入门学习"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298897,cam_r50,EOS R50,CameraModel,use_live,直播带货,UseCase,SUITABLE_FOR,88,翻转屏和佳能对焦适合直播短视频,"{""note"": ""翻转屏和佳能对焦适合直播短视频"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157431701303984145,cam_r50,EOS R50,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,82,轻便便携,"{""note"": ""轻便便携"", ""score"": 82}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102710,cam_r5c,EOS R5 C,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241590,cam_r5c,EOS R5 C,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869366,cam_r5c,EOS R5 C,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847158,cam_r5c,EOS R5 C,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613814,cam_r5c,EOS R5 C,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,93,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 93}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152925902653358093,cam_r5m2,EOS R5 Mark II,CameraModel,index_8k30p,8K 30p 视频规格,ParameterIndex,ACHIEVES_INDEX,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102541,cam_r5m2,EOS R5 Mark II,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395166,cam_r5m2,EOS R5 Mark II,CameraModel,lens_c100500,RF 100-500mm F4.5-7.1 L IS USM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709917,cam_r5m2,EOS R5 Mark II,CameraModel,lens_c1535,RF 15-35mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474765,cam_r5m2,EOS R5 Mark II,CameraModel,lens_c2470,RF 24-70mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709919,cam_r5m2,EOS R5 Mark II,CameraModel,lens_c2870,RF 28-70mm F2 L USM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845261,cam_r5m2,EOS R5 Mark II,CameraModel,lens_c50,RF 50mm F1.2 L USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160013,cam_r5m2,EOS R5 Mark II,CameraModel,lens_c70200,RF 70-200mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709916,cam_r5m2,EOS R5 Mark II,CameraModel,lens_c8512,RF 85mm F1.2 L USM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152924803141730317,cam_r5m2,EOS R5 Mark II,CameraModel,comp_digic_x,DIGIC X,Component,EQUIPPED_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919788524036161602,cam_r5m2,EOS R5 Mark II,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922041423361474623,cam_r5m2,EOS R5 Mark II,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846989,cam_r5m2,EOS R5 Mark II,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613645,cam_r5m2,EOS R5 Mark II,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,93,高端全画幅，支持8K规格,"{""note"": ""高端全画幅，支持8K规格"", ""score"": 93}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102543,cam_r6,EOS R6,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474767,cam_r6,EOS R6,CameraModel,lens_c2470,RF 24-70mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845263,cam_r6,EOS R6,CameraModel,lens_c50,RF 50mm F1.2 L USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160015,cam_r6,EOS R6,CameraModel,lens_c70200,RF 70-200mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922041423361474622,cam_r6,EOS R6,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846991,cam_r6,EOS R6,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102542,cam_r6m2,EOS R6 Mark II,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395165,cam_r6m2,EOS R6 Mark II,CameraModel,lens_c1535,RF 15-35mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474766,cam_r6m2,EOS R6 Mark II,CameraModel,lens_c2470,RF 24-70mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395167,cam_r6m2,EOS R6 Mark II,CameraModel,lens_c2870,RF 28-70mm F2 L USM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395163,cam_r6m2,EOS R6 Mark II,CameraModel,lens_c3518,RF 35mm F1.8 MACRO IS STM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845262,cam_r6m2,EOS R6 Mark II,CameraModel,lens_c50,RF 50mm F1.2 L USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160014,cam_r6m2,EOS R6 Mark II,CameraModel,lens_c70200,RF 70-200mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395164,cam_r6m2,EOS R6 Mark II,CameraModel,lens_c8512,RF 85mm F1.2 L USM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152924803141730318,cam_r6m2,EOS R6 Mark II,CameraModel,comp_digic_x,DIGIC X,Component,EQUIPPED_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919788524036161601,cam_r6m2,EOS R6 Mark II,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922040323849846852,cam_r6m2,EOS R6 Mark II,CameraModel,reason_lens_ecosystem,镜头生态完善,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919789623547789374,cam_r6m2,EOS R6 Mark II,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846990,cam_r6m2,EOS R6 Mark II,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152927002164985870,cam_r6m2,EOS R6 Mark II,CameraModel,cam_r6,EOS R6,CameraModel,SUCCESSOR_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613646,cam_r6m2,EOS R6 Mark II,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,86,全画幅且价格适中，适合人像创作,"{""note"": ""全画幅且价格适中，适合人像创作"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102544,cam_r7,EOS R7,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1159678003559530512,cam_r7,EOS R7,CameraModel,lens_c100500,RF 100-500mm F4.5-7.1 L IS USM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474768,cam_r7,EOS R7,CameraModel,lens_c2470,RF 24-70mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845264,cam_r7,EOS R7,CameraModel,lens_c50,RF 50mm F1.2 L USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160016,cam_r7,EOS R7,CameraModel,lens_c70200,RF 70-200mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869200,cam_r7,EOS R7,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846992,cam_r7,EOS R7,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102603,cam_r8,EOS R8,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474827,cam_r8,EOS R8,CameraModel,lens_c24105,RF 24-105mm F4-7.1 IS STM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160075,cam_r8,EOS R8,CameraModel,lens_c2470,RF 24-70mm F2.8 L IS USM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709915,cam_r8,EOS R8,CameraModel,lens_c3518,RF 35mm F1.8 MACRO IS STM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1159678003559530571,cam_r8,EOS R8,CameraModel,lens_c5018,RF 50mm F1.8 STM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845323,cam_r8,EOS R8,CameraModel,lens_c8512,RF 85mm F1.2 L USM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6926543923477217345,cam_r8,EOS R8,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6926545022988845117,cam_r8,EOS R8,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847051,cam_r8,EOS R8,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613707,cam_r8,EOS R8,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,90,轻量全画幅适合人像,"{""note"": ""轻量全画幅适合人像"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298955,cam_r8,EOS R8,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,86,全画幅视频能力均衡,"{""note"": ""全画幅视频能力均衡"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102709,cam_r8_dup,EOS R8,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241589,cam_r8_dup,EOS R8,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869365,cam_r8_dup,EOS R8,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847157,cam_r8_dup,EOS R8,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613813,cam_r8_dup,EOS R8,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,94,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102611,cam_rp,EOS RP,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474835,cam_rp,EOS RP,CameraModel,lens_c24105,RF 24-105mm F4-7.1 IS STM,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160083,cam_rp,EOS RP,CameraModel,lens_c3518,RF 35mm F1.8 MACRO IS STM,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6931047523104587845,cam_rp,EOS RP,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6940055821870956605,cam_rp,EOS RP,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847059,cam_rp,EOS RP,CameraModel,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613715,cam_rp,EOS RP,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,78,低价全画幅入门,"{""note"": ""低价全画幅入门"", ""score"": 78}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102804,cam_rs3pro,Ronin 4D,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241684,cam_rs3pro,Ronin 4D,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869460,cam_rs3pro,Ronin 4D,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847252,cam_rs3pro,Ronin 4D,CameraModel,brand_dji,大疆,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613908,cam_rs3pro,Ronin 4D,CameraModel,use_professional,商业专业拍摄,UseCase,SUITABLE_FOR,83,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 83}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102725,cam_s1,Lumix S1,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241605,cam_s1,Lumix S1,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869381,cam_s1,Lumix S1,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847173,cam_s1,Lumix S1,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613829,cam_s1,Lumix S1,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,96,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102727,cam_s1h,Lumix S1H,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395181,cam_s1h,Lumix S1H,CameraModel,lens_p70200,Lumix S Pro 70-200mm F2.8 OIS,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241607,cam_s1h,Lumix S1H,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869383,cam_s1h,Lumix S1H,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847175,cam_s1h,Lumix S1H,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613831,cam_s1h,Lumix S1H,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,94,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102726,cam_s1r,Lumix S1R,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241606,cam_s1r,Lumix S1R,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869382,cam_s1r,Lumix S1R,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847174,cam_s1r,Lumix S1R,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613830,cam_s1r,Lumix S1R,CameraModel,use_landscape,风光摄影,UseCase,SUITABLE_FOR,95,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102728,cam_s5,Lumix S5,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241608,cam_s5,Lumix S5,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869384,cam_s5,Lumix S5,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847176,cam_s5,Lumix S5,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613832,cam_s5,Lumix S5,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,93,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 93}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102659,cam_s5m2,Lumix S5 II,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474883,cam_s5m2,Lumix S5 II,CameraModel,lens_p2060,Lumix S 20-60mm F3.5-5.6,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709932,cam_s5m2,Lumix S5 II,CameraModel,lens_p2470,Lumix S Pro 24-70mm F2.8,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709933,cam_s5m2,Lumix S5 II,CameraModel,lens_p70200,Lumix S Pro 70-200mm F2.8 OIS,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6931047523104587841,cam_s5m2,Lumix S5 II,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6935551122731958338,cam_s5m2,Lumix S5 II,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6946811221312012349,cam_s5m2,Lumix S5 II,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847107,cam_s5m2,Lumix S5 II,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299011,cam_s5m2,Lumix S5 II,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,82,全画幅适合人像创作,"{""note"": ""全画幅适合人像创作"", ""score"": 82}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613763,cam_s5m2,Lumix S5 II,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,90,全画幅视频能力均衡,"{""note"": ""全画幅视频能力均衡"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102729,cam_s5m2x,Lumix S5 IIX,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241609,cam_s5m2x,Lumix S5 IIX,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869385,cam_s5m2x,Lumix S5 IIX,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847177,cam_s5m2x,Lumix S5 IIX,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613833,cam_s5m2x,Lumix S5 IIX,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,92,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102658,cam_s9,Lumix S9,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474882,cam_s9,Lumix S9,CameraModel,lens_p2060,Lumix S 20-60mm F3.5-5.6,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395180,cam_s9,Lumix S9,CameraModel,lens_p2470,Lumix S Pro 24-70mm F2.8,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6931047523104587840,cam_s9,Lumix S9,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6933299322918273090,cam_s9,Lumix S9,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6944559421498327101,cam_s9,Lumix S9,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847106,cam_s9,Lumix S9,CameraModel,brand_panasonic,松下,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157431701303984258,cam_s9,Lumix S9,CameraModel,use_live,直播带货,UseCase,SUITABLE_FOR,90,轻便全画幅视频机,"{""note"": ""轻便全画幅视频机"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299010,cam_s9,Lumix S9,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,90,轻便适合旅行随拍,"{""note"": ""轻便适合旅行随拍"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613762,cam_s9,Lumix S9,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,92,全画幅轻便视频机,"{""note"": ""全画幅轻便视频机"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102740,cam_sl2,SL2,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241620,cam_sl2,SL2,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869396,cam_sl2,SL2,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847188,cam_sl2,SL2,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613844,cam_sl2,SL2,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,92,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102741,cam_sl2s,SL2-S,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241621,cam_sl2s,SL2-S,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869397,cam_sl2s,SL2-S,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847189,cam_sl2s,SL2-S,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613845,cam_sl2s,SL2-S,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,91,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 91}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102742,cam_sl3,SL3,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241622,cam_sl3,SL3,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869398,cam_sl3,SL3,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847190,cam_sl3,SL3,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613846,cam_sl3,SL3,CameraModel,use_landscape,风光摄影,UseCase,SUITABLE_FOR,90,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102747,cam_sofort2,Sofort 2,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241627,cam_sofort2,Sofort 2,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869403,cam_sofort2,Sofort 2,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847195,cam_sofort2,Sofort 2,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613851,cam_sofort2,Sofort 2,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,85,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 85}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102786,cam_stellar,Stellar,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241666,cam_stellar,Stellar,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869442,cam_stellar,Stellar,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847234,cam_stellar,Stellar,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613890,cam_stellar,Stellar,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,87,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 87}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102756,cam_tg6,TG-6,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241636,cam_tg6,TG-6,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869412,cam_tg6,TG-6,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847204,cam_tg6,TG-6,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613860,cam_tg6,TG-6,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,89,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 89}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102755,cam_tg7,TG-7,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241635,cam_tg7,TG-7,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869411,cam_tg7,TG-7,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847203,cam_tg7,TG-7,CameraModel,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613859,cam_tg7,TG-7,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,90,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102776,cam_theta_sc2,Theta SC2,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241656,cam_theta_sc2,Theta SC2,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869432,cam_theta_sc2,Theta SC2,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847224,cam_theta_sc2,Theta SC2,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613880,cam_theta_sc2,Theta SC2,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,84,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 84}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102775,cam_theta_x,Theta X,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241655,cam_theta_x,Theta X,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869431,cam_theta_x,Theta X,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847223,cam_theta_x,Theta X,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613879,cam_theta_x,Theta X,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,85,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 85}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102774,cam_theta_z1,Theta Z1,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241654,cam_theta_z1,Theta Z1,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869430,cam_theta_z1,Theta Z1,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847222,cam_theta_z1,Theta Z1,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613878,cam_theta_z1,Theta Z1,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,86,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102744,cam_tl2,TL2,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241624,cam_tl2,TL2,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869400,cam_tl2,TL2,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847192,cam_tl2,TL2,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613848,cam_tl2,TL2,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,88,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102746,cam_vlux5,V-LUX 5,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241626,cam_vlux5,V-LUX 5,CameraModel,reason_lens_ecosystem,镜头生态完善,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869402,cam_vlux5,V-LUX 5,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847194,cam_vlux5,V-LUX 5,CameraModel,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613850,cam_vlux5,V-LUX 5,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,86,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102773,cam_wg6,WG-6,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241653,cam_wg6,WG-6,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869429,cam_wg6,WG-6,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847221,cam_wg6,WG-6,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613877,cam_wg6,WG-6,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,87,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 87}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102772,cam_wg7,WG-7,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241652,cam_wg7,WG-7,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869428,cam_wg7,WG-7,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847220,cam_wg7,WG-7,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613876,cam_wg7,WG-7,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,88,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102771,cam_wg8,WG-8,CameraModel,cat_compact,便携固定镜头相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241651,cam_wg8,WG-8,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869427,cam_wg8,WG-8,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847219,cam_wg8,WG-8,CameraModel,brand_ricoh,理光,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613875,cam_wg8,WG-8,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,89,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 89}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102556,cam_x100vi,X100VI,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241436,cam_x100vi,X100VI,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919789623547789373,cam_x100vi,X100VI,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847004,cam_x100vi,X100VI,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613660,cam_x100vi,X100VI,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,96,定焦便携，适合街拍和旅行记录,"{""note"": ""定焦便携，适合街拍和旅行记录"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102777,cam_x1d,X1D,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241657,cam_x1d,X1D,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869433,cam_x1d,X1D,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847225,cam_x1d,X1D,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613881,cam_x1d,X1D,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,96,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102778,cam_x1d2,X1D II 50C,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395186,cam_x1d2,X1D II 50C,CameraModel,lens_h_xcd45p,XCD 45mm F4 P,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241658,cam_x1d2,X1D II 50C,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869434,cam_x1d2,X1D II 50C,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847226,cam_x1d2,X1D II 50C,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613882,cam_x1d2,X1D II 50C,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,95,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102668,cam_x2d,X2D 100C,CameraModel,cat_mf,中画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709938,cam_x2d,X2D 100C,CameraModel,lens_h_xcd45p,XCD 45mm F4 P,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241548,cam_x2d,X2D 100C,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6937804022057271359,cam_x2d,X2D 100C,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847116,cam_x2d,X2D 100C,CameraModel,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922039224338219153,cam_x2d,X2D 100C,CameraModel,use_landscape,风光摄影,UseCase,SUITABLE_FOR,94,中画幅高像素适合风光商业,"{""note"": ""中画幅高像素适合风光商业"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299020,cam_x2d,X2D 100C,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,82,中画幅质感适合高端人像,"{""note"": ""中画幅质感适合高端人像"", ""score"": 82}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613772,cam_x2d,X2D 100C,CameraModel,use_professional,商业专业拍摄,UseCase,SUITABLE_FOR,94,中画幅高像素商业风光,"{""note"": ""中画幅高像素商业风光"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917535624710848660,cam_x2d,X2D 100C,CameraModel,use_studio,商业棚拍,UseCase,SUITABLE_FOR,96,中画幅高像素适合商业棚拍,"{""note"": ""中画幅高像素适合商业棚拍"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102719,cam_xh2,X-H2,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241599,cam_xh2,X-H2,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869375,cam_xh2,X-H2,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847167,cam_xh2,X-H2,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613823,cam_xh2,X-H2,CameraModel,use_landscape,风光摄影,UseCase,SUITABLE_FOR,96,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102553,cam_xh2s,X-H2S,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474777,cam_xh2s,X-H2S,CameraModel,lens_f1655,XF 16-55mm F2.8 R LM WR,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160025,cam_xh2s,X-H2S,CameraModel,lens_f1855,XF 18-55mm F2.8-4 R LM OIS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845273,cam_xh2s,X-H2S,CameraModel,lens_f50140,XF 50-140mm F2.8 R LM OIS WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6928796822802530366,cam_xh2s,X-H2S,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847001,cam_xh2s,X-H2S,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102608,cam_xm5,X-M5,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160080,cam_xm5,X-M5,CameraModel,lens_f1545,XC 15-45mm F3.5-5.6 OIS PZ,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395175,cam_xm5,X-M5,CameraModel,lens_f23f2,XF 23mm F2 R WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395176,cam_xm5,X-M5,CameraModel,lens_f35f2,XF 35mm F2 R WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474832,cam_xm5,X-M5,CameraModel,lens_fxc35,XC 35mm F2,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6924292123663532096,cam_xm5,X-M5,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6926545022988845116,cam_xm5,X-M5,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847056,cam_xm5,X-M5,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613712,cam_xm5,X-M5,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,92,轻便复古，适合新手和街拍,"{""note"": ""轻便复古，适合新手和街拍"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157431701303984208,cam_xm5,X-M5,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,92,轻便复古适合扫街,"{""note"": ""轻便复古适合扫街"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298960,cam_xm5,X-M5,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,94,重量低适合随身携带,"{""note"": ""重量低适合随身携带"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102720,cam_xpro3,X-Pro3,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241600,cam_xpro3,X-Pro3,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869376,cam_xpro3,X-Pro3,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847168,cam_xpro3,X-Pro3,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613824,cam_xpro3,X-Pro3,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,95,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102609,cam_xs10,X-S10,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474833,cam_xs10,X-S10,CameraModel,lens_f1545,XC 15-45mm F3.5-5.6 OIS PZ,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160081,cam_xs10,X-S10,CameraModel,lens_f1655,XF 16-55mm F2.8 R LM WR,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241489,cam_xs10,X-S10,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6935552222243586109,cam_xs10,X-S10,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847057,cam_xs10,X-S10,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613713,cam_xs10,X-S10,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,82,具备防抖，性价比较好,"{""note"": ""具备防抖，性价比较好"", ""score"": 82}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102607,cam_xs20,X-S20,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160079,cam_xs20,X-S20,CameraModel,lens_f1650,XF 16-50mm F2.8-4.8 R LM WR,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845327,cam_xs20,X-S20,CameraModel,lens_f1655,XF 16-55mm F2.8 R LM WR,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1159678003559530575,cam_xs20,X-S20,CameraModel,lens_f23f2,XF 23mm F2 R WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1161929803373215823,cam_xs20,X-S20,CameraModel,lens_f35f2,XF 35mm F2 R WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395177,cam_xs20,X-S20,CameraModel,lens_f56f12,XF 56mm F1.2 R WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474831,cam_xs20,X-S20,CameraModel,lens_fxc35,XC 35mm F2,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922040323849846848,cam_xs20,X-S20,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6931047523104587842,cam_xs20,X-S20,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6933300422429900861,cam_xs20,X-S20,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847055,cam_xs20,X-S20,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157431701303984207,cam_xs20,X-S20,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,88,直出色彩好,"{""note"": ""直出色彩好"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1159683501117669455,cam_xs20,X-S20,CameraModel,use_live,直播带货,UseCase,SUITABLE_FOR,92,视频能力和续航适合直播Vlog,"{""note"": ""视频能力和续航适合直播Vlog"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298959,cam_xs20,X-S20,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,94,轻便续航好,"{""note"": ""轻便续航好"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613711,cam_xs20,X-S20,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,96,6K和4K能力强，适合Vlog,"{""note"": ""6K和4K能力强，适合Vlog"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102722,cam_xt3,X-T3,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241602,cam_xt3,X-T3,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869378,cam_xt3,X-T3,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847170,cam_xt3,X-T3,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613826,cam_xt3,X-T3,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,93,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 93}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102625,cam_xt30iii,X-T30III,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6928795723290902592,cam_xt30iii,X-T30III,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6942307621684641853,cam_xt30iii,X-T30III,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847073,cam_xt30iii,X-T30III,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613729,cam_xt30iii,X-T30III,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,,复古入门微单，适合新手,"{""note"": ""复古入门微单，适合新手""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298977,cam_xt30iii,X-T30III,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,,轻便适合街拍旅行,"{""note"": ""轻便适合街拍旅行""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102721,cam_xt4,X-T4,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241601,cam_xt4,X-T4,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869377,cam_xt4,X-T4,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847169,cam_xt4,X-T4,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613825,cam_xt4,X-T4,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,94,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102552,cam_xt5,X-T5,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709930,cam_xt5,X-T5,CameraModel,lens_f1024,XF 10-24mm F4 R OIS WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474776,cam_xt5,X-T5,CameraModel,lens_f1655,XF 16-55mm F2.8 R LM WR,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160024,cam_xt5,X-T5,CameraModel,lens_f1855,XF 18-55mm F2.8-4 R LM OIS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709927,cam_xt5,X-T5,CameraModel,lens_f23f2,XF 23mm F2 R WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709928,cam_xt5,X-T5,CameraModel,lens_f35f2,XF 35mm F2 R WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709931,cam_xt5,X-T5,CameraModel,lens_f50140,XF 50-140mm F2.8 R LM OIS WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709929,cam_xt5,X-T5,CameraModel,lens_f56f12,XF 56mm F1.2 R WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152924803141730328,cam_xt5,X-T5,CameraModel,comp_x_proc_5,X-Processor 5,Component,EQUIPPED_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155176602955415576,cam_xt5,X-T5,CameraModel,comp_xtrans_5,X-Trans CMOS 5 HR,Component,EQUIPPED_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869208,cam_xt5,X-T5,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847000,cam_xt5,X-T5,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919787424524533905,cam_xt5,X-T5,CameraModel,use_landscape,风光摄影,UseCase,SUITABLE_FOR,92,高像素和胶片模拟适合风光,"{""note"": ""高像素和胶片模拟适合风光"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613656,cam_xt5,X-T5,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,88,复古操作和直出适合街拍,"{""note"": ""复古操作和直出适合街拍"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102554,cam_xt50,X-T50,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395178,cam_xt50,X-T50,CameraModel,lens_f1024,XF 10-24mm F4 R OIS WR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474778,cam_xt50,X-T50,CameraModel,lens_f1655,XF 16-55mm F2.8 R LM WR,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160026,cam_xt50,X-T50,CameraModel,lens_f1855,XF 18-55mm F2.8-4 R LM OIS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241434,cam_xt50,X-T50,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917537823734104125,cam_xt50,X-T50,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847002,cam_xt50,X-T50,CameraModel,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613658,cam_xt50,X-T50,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,82,机身轻便且外观直观，适合学习摄影,"{""note"": ""机身轻便且外观直观，适合学习摄影"", ""score"": 82}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298906,cam_xt50,X-T50,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,92,重量较低，适合旅行随拍,"{""note"": ""重量较低，适合旅行随拍"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102604,cam_z30,Z 30,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474828,cam_z30,Z 30,CameraModel,lens_n1650,NIKKOR Z DX 16-50mm f/3.5-6.3 VR,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160076,cam_z30,Z 30,CameraModel,lens_n18140,NIKKOR Z DX 18-140mm f/3.5-6.3 VR,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6926543923477217349,cam_z30,Z 30,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6928795723290902594,cam_z30,Z 30,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6924293223175159868,cam_z30,Z 30,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847052,cam_z30,Z 30,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613708,cam_z30,Z 30,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,94,入门Vlog和日常记录,"{""note"": ""入门Vlog和日常记录"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298956,cam_z30,Z 30,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,88,适合轻量视频,"{""note"": ""适合轻量视频"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102714,cam_z30_new,Z 30,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241594,cam_z30_new,Z 30,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869370,cam_z30_new,Z 30,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847162,cam_z30_new,Z 30,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613818,cam_z30_new,Z 30,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,94,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102713,cam_z5,Z 5,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395174,cam_z5,Z 5,CameraModel,lens_n40f2,NIKKOR Z 40mm f/2,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241593,cam_z5,Z 5,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869369,cam_z5,Z 5,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847161,cam_z5,Z 5,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613817,cam_z5,Z 5,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,95,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102551,cam_z50,Z 50,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474775,cam_z50,Z 50,CameraModel,lens_n2470,NIKKOR Z 24-70mm f/2.8 S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845271,cam_z50,Z 50,CameraModel,lens_n50,NIKKOR Z 50mm f/1.2 S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160023,cam_z50,Z 50,CameraModel,lens_n70200,NIKKOR Z 70-200mm f/2.8 VR S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241431,cam_z50,Z 50,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869207,cam_z50,Z 50,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846999,cam_z50,Z 50,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613655,cam_z50,Z 50,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,90,APS-C机身轻便，适合新手和日常记录,"{""note"": ""APS-C机身轻便，适合新手和日常记录"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102605,cam_z50m2,Z 50II,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474829,cam_z50m2,Z 50II,CameraModel,lens_n1650,NIKKOR Z DX 16-50mm f/3.5-6.3 VR,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160077,cam_z50m2,Z 50II,CameraModel,lens_n18140,NIKKOR Z DX 18-140mm f/3.5-6.3 VR,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6928795723290902597,cam_z50m2,Z 50II,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6928796822802530365,cam_z50m2,Z 50II,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847053,cam_z50m2,Z 50II,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613709,cam_z50m2,Z 50II,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,92,套机焦段覆盖广，新手友好,"{""note"": ""套机焦段覆盖广，新手友好"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298957,cam_z50m2,Z 50II,CameraModel,use_travel,旅行随拍,UseCase,SUITABLE_FOR,88,适合旅行,"{""note"": ""适合旅行"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102606,cam_z5m2,Z5 II,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474830,cam_z5m2,Z5 II,CameraModel,lens_n2450,NIKKOR Z 24-50mm f/4-6.3,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160078,cam_z5m2,Z5 II,CameraModel,lens_n2470,NIKKOR Z 24-70mm f/2.8 S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6928795723290902593,cam_z5m2,Z5 II,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6931048622616215613,cam_z5m2,Z5 II,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847054,cam_z5m2,Z5 II,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298958,cam_z5m2,Z5 II,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,80,适合预算充足的新手升级全画幅,"{""note"": ""适合预算充足的新手升级全画幅"", ""score"": 80}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613710,cam_z5m2,Z5 II,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,86,入门全画幅,"{""note"": ""入门全画幅"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102718,cam_z6,Z 6,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241598,cam_z6,Z 6,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869374,cam_z6,Z 6,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847166,cam_z6,Z 6,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613822,cam_z6,Z 6,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,90,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102717,cam_z6m2,Z 6II,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241597,cam_z6m2,Z 6II,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869373,cam_z6m2,Z 6II,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847165,cam_z6m2,Z 6II,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613821,cam_z6m2,Z 6II,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,91,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 91}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102547,cam_z6m3,Z 6III,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709924,cam_z6m3,Z 6III,CameraModel,lens_n24120,NIKKOR Z 24-120mm f/4 S,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474771,cam_z6m3,Z 6III,CameraModel,lens_n2470,NIKKOR Z 24-70mm f/2.8 S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1159678003559530515,cam_z6m3,Z 6III,CameraModel,lens_n35f18,NIKKOR Z 35mm f/1.8 S,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845267,cam_z6m3,Z 6III,CameraModel,lens_n50,NIKKOR Z 50mm f/1.2 S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160019,cam_z6m3,Z 6III,CameraModel,lens_n70200,NIKKOR Z 70-200mm f/2.8 VR S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709922,cam_z6m3,Z 6III,CameraModel,lens_n85f18,NIKKOR Z 85mm f/1.8 S,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6924293223175159870,cam_z6m3,Z 6III,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846995,cam_z6m3,Z 6III,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102716,cam_z7,Z 7,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241596,cam_z7,Z 7,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869372,cam_z7,Z 7,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847164,cam_z7,Z 7,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613820,cam_z7,Z 7,CameraModel,use_landscape,风光摄影,UseCase,SUITABLE_FOR,92,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102712,cam_z7m2,Z 7II,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395171,cam_z7m2,Z 7II,CameraModel,lens_n1430,NIKKOR Z 14-30mm f/4 S,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241592,cam_z7m2,Z 7II,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869368,cam_z7m2,Z 7II,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847160,cam_z7m2,Z 7II,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613816,cam_z7m2,Z 7II,CameraModel,use_landscape,风光摄影,UseCase,SUITABLE_FOR,96,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102548,cam_z8,Z 8,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709923,cam_z8,Z 8,CameraModel,lens_n1430,NIKKOR Z 14-30mm f/4 S,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709925,cam_z8,Z 8,CameraModel,lens_n180600,NIKKOR Z 180-600mm f/5.6-6.3 VR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395172,cam_z8,Z 8,CameraModel,lens_n24120,NIKKOR Z 24-120mm f/4 S,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474772,cam_z8,Z 8,CameraModel,lens_n2470,NIKKOR Z 24-70mm f/2.8 S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845268,cam_z8,Z 8,CameraModel,lens_n50,NIKKOR Z 50mm f/1.2 S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160020,cam_z8,Z 8,CameraModel,lens_n70200,NIKKOR Z 70-200mm f/2.8 VR S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395170,cam_z8,Z 8,CameraModel,lens_n85f18,NIKKOR Z 85mm f/1.8 S,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152924803141730324,cam_z8,Z 8,CameraModel,comp_expeed_7,EXPEED 7,Component,EQUIPPED_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241428,cam_z8,Z 8,CameraModel,reason_lens_ecosystem,镜头生态完善,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6926545022988845119,cam_z8,Z 8,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846996,cam_z8,Z 8,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613652,cam_z8,Z 8,CameraModel,use_professional,商业专业拍摄,UseCase,SUITABLE_FOR,92,高端全画幅，性能接近旗舰,"{""note"": ""高端全画幅，性能接近旗舰"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155177702467043349,cam_z9,Z 9,CameraModel,index_20fps,20fps 连拍速度,ParameterIndex,ACHIEVES_INDEX,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157429502280728597,cam_z9,Z 9,CameraModel,index_30fps,30fps 连拍速度,ParameterIndex,ACHIEVES_INDEX,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152925902653358101,cam_z9,Z 9,CameraModel,index_8k30p,8K 30p 视频规格,ParameterIndex,ACHIEVES_INDEX,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102549,cam_z9,Z 9,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919781926966395173,cam_z9,Z 9,CameraModel,lens_n180600,NIKKOR Z 180-600mm f/5.6-6.3 VR,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474773,cam_z9,Z 9,CameraModel,lens_n2470,NIKKOR Z 24-70mm f/2.8 S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845269,cam_z9,Z 9,CameraModel,lens_n50,NIKKOR Z 50mm f/1.2 S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160021,cam_z9,Z 9,CameraModel,lens_n70200,NIKKOR Z 70-200mm f/2.8 VR S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152924803141730325,cam_z9,Z 9,CameraModel,comp_expeed_7,EXPEED 7,Component,EQUIPPED_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919788524036161603,cam_z9,Z 9,CameraModel,reason_fast,高速连拍,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6928796822802530367,cam_z9,Z 9,CameraModel,band_pro,专业预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846997,cam_z9,Z 9,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919787424524533819,cam_z9,Z 9,CameraModel,use_professional,商业专业拍摄,UseCase,SUITABLE_FOR,96,旗舰定位，适合商业和专业拍摄,"{""note"": ""旗舰定位，适合商业和专业拍摄"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613653,cam_z9,Z 9,CameraModel,use_sports,体育生态摄影,UseCase,SUITABLE_FOR,94,旗舰机身，支持高速连拍和8K规格,"{""note"": ""旗舰机身，支持高速连拍和8K规格"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102550,cam_zf,Z f,CameraModel,cat_ff,全画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1159678003559530518,cam_zf,Z f,CameraModel,lens_n24120,NIKKOR Z 24-120mm f/4 S,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474774,cam_zf,Z f,CameraModel,lens_n2470,NIKKOR Z 24-70mm f/2.8 S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709921,cam_zf,Z f,CameraModel,lens_n35f18,NIKKOR Z 35mm f/1.8 S,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917530127152709926,cam_zf,Z f,CameraModel,lens_n40f2,NIKKOR Z 40mm f/2,Lens,COMPATIBLE_WITH,,市场热销镜头适配,"{""note"": ""市场热销镜头适配""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157426203745845270,cam_zf,Z f,CameraModel,lens_n50,NIKKOR Z 50mm f/1.2 S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160022,cam_zf,Z f,CameraModel,lens_n70200,NIKKOR Z 70-200mm f/2.8 VR S,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241430,cam_zf,Z f,CameraModel,reason_full_frame,全画幅画质,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6926545022988845118,cam_zf,Z f,CameraModel,band_high,高端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606846998,cam_zf,Z f,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613654,cam_zf,Z f,CameraModel,use_portrait,人像摄影,UseCase,SUITABLE_FOR,84,全画幅复古机身，适合人像和日常创作,"{""note"": ""全画幅复古机身，适合人像和日常创作"", ""score"": 84}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102715,cam_zfc,Z fc,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241595,cam_zfc,Z fc,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869371,cam_zfc,Z fc,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847163,cam_zfc,Z fc,CameraModel,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613819,cam_zfc,Z fc,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,93,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 93}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102706,cam_zv1m2,ZV-1 II,CameraModel,cat_vlog_compact,Vlog便携相机,CameraCategory,BELONGS_TO_CATEGORY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152929201188241586,cam_zv1m2,ZV-1 II,CameraModel,reason_light,轻便机身,Reason,HAS_REASON,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152930300699869362,cam_zv1m2,ZV-1 II,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847154,cam_zv1m2,ZV-1 II,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613810,cam_zv1m2,ZV-1 II,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,94,按品牌代表型号补充的用途关系,"{""note"": ""按品牌代表型号补充的用途关系"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102770,cam_zve10,ZV-E10,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474994,cam_zve10,ZV-E10,CameraModel,lens_s1650p,E PZ 16-50mm F3.5-5.6 OSS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160242,cam_zve10,ZV-E10,CameraModel,lens_s18135,E 18-135mm F3.5-5.6 OSS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919788524036161605,cam_zve10,ZV-E10,CameraModel,reason_low_cost,预算友好,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6924292123663532098,cam_zve10,ZV-E10,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6928796822802530364,cam_zve10,ZV-E10,CameraModel,band_entry,入门预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847218,cam_zve10,ZV-E10,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613874,cam_zve10,ZV-E10,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,96,价格友好，适合新手视频入门,"{""note"": ""价格友好，适合新手视频入门"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6917535624710848658,cam_zve10,ZV-E10,CameraModel,use_live,直播带货,UseCase,SUITABLE_FOR,92,Vlog和直播入门友好,"{""note"": ""Vlog和直播入门友好"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6919787424524533907,cam_zve10,ZV-E10,CameraModel,use_street,街拍扫街,UseCase,SUITABLE_FOR,78,轻便便宜适合日常扫街,"{""note"": ""轻便便宜适合日常扫街"", ""score"": 78}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490299122,cam_zve10,ZV-E10,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,94,Vlog定位明确,"{""note"": ""Vlog定位明确"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152923703630102598,cam_zve10m2,ZV-E10 II,CameraModel,cat_apsc,APS-C画幅微单,CameraCategory,BELONGS_TO_CATEGORY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152922604118474822,cam_zve10m2,ZV-E10 II,CameraModel,lens_s1650p,E PZ 16-50mm F3.5-5.6 OSS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155174403932160070,cam_zve10m2,ZV-E10 II,CameraModel,lens_s18135,E 18-135mm F3.5-5.6 OSS,Lens,COMPATIBLE_WITH,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6926543923477217346,cam_zve10m2,ZV-E10 II,CameraModel,reason_video,视频规格突出,Reason,HAS_REASON,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:6922041423361474621,cam_zve10m2,ZV-E10 II,CameraModel,band_mid,中端预算,PriceBand,IN_PRICE_BAND,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847046,cam_zve10m2,ZV-E10 II,CameraModel,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155179901490298950,cam_zve10m2,ZV-E10 II,CameraModel,use_beginner,入门学习,UseCase,SUITABLE_FOR,88,操作简单适合入门,"{""note"": ""操作简单适合入门"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152928101676613702,cam_zve10m2,ZV-E10 II,CameraModel,use_video,视频创作,UseCase,SUITABLE_FOR,96,新一代视频入门机,"{""note"": ""新一代视频入门机"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030558,lens_c100500,RF 100-500mm F4.5-7.1 L IS USM,Lens,use_sports,体育生态摄影,UseCase,LENS_SUITABLE_FOR,88,生态体育长焦,"{""note"": ""生态体育长焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847262,lens_c100500,RF 100-500mm F4.5-7.1 L IS USM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030557,lens_c1535,RF 15-35mm F2.8 L IS USM,Lens,use_landscape,风光摄影,UseCase,LENS_SUITABLE_FOR,88,风光视频广角大三元,"{""note"": ""风光视频广角大三元"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715805,lens_c1535,RF 15-35mm F2.8 L IS USM,Lens,use_video,视频创作,UseCase,LENS_SUITABLE_FOR,88,风光视频广角大三元,"{""note"": ""风光视频广角大三元"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847261,lens_c1535,RF 15-35mm F2.8 L IS USM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847065,lens_c18150,RF-S 18-150mm F3.5-6.3 IS STM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847064,lens_c1845,RF-S 18-45mm F4.5-6.3 IS STM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847066,lens_c24105,RF 24-105mm F4-7.1 IS STM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847008,lens_c2470,RF 24-70mm F2.8 L IS USM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030559,lens_c2870,RF 28-70mm F2 L USM,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,高端人像商业标准变焦,"{""note"": ""高端人像商业标准变焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715807,lens_c2870,RF 28-70mm F2 L USM,Lens,use_studio,商业棚拍,UseCase,LENS_SUITABLE_FOR,88,高端人像商业标准变焦,"{""note"": ""高端人像商业标准变焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847263,lens_c2870,RF 28-70mm F2 L USM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715803,lens_c3518,RF 35mm F1.8 MACRO IS STM,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,轻便人文街拍定焦,"{""note"": ""轻便人文街拍定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030555,lens_c3518,RF 35mm F1.8 MACRO IS STM,Lens,use_street,街拍扫街,UseCase,LENS_SUITABLE_FOR,88,轻便人文街拍定焦,"{""note"": ""轻便人文街拍定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847259,lens_c3518,RF 35mm F1.8 MACRO IS STM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847010,lens_c50,RF 50mm F1.2 L USM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030560,lens_c5018,RF 50mm F1.8 STM,Lens,use_beginner,入门学习,UseCase,LENS_SUITABLE_FOR,88,入门人像小痰盂,"{""note"": ""入门人像小痰盂"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715808,lens_c5018,RF 50mm F1.8 STM,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,入门人像小痰盂,"{""note"": ""入门人像小痰盂"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847264,lens_c5018,RF 50mm F1.8 STM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847009,lens_c70200,RF 70-200mm F2.8 L IS USM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030556,lens_c8512,RF 85mm F1.2 L USM,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,高端人像定焦,"{""note"": ""高端人像定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847260,lens_c8512,RF 85mm F1.2 L USM,Lens,brand_canon,佳能,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030570,lens_f1024,XF 10-24mm F4 R OIS WR,Lens,use_landscape,风光摄影,UseCase,LENS_SUITABLE_FOR,88,风光旅行广角,"{""note"": ""风光旅行广角"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715818,lens_f1024,XF 10-24mm F4 R OIS WR,Lens,use_travel,旅行随拍,UseCase,LENS_SUITABLE_FOR,88,风光旅行广角,"{""note"": ""风光旅行广角"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847274,lens_f1024,XF 10-24mm F4 R OIS WR,Lens,brand_fuji,富士,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847072,lens_f1545,XC 15-45mm F3.5-5.6 OIS PZ,Lens,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847071,lens_f1650,XF 16-50mm F2.8-4.8 R LM WR,Lens,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847014,lens_f1655,XF 16-55mm F2.8 R LM WR,Lens,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847015,lens_f1855,XF 18-55mm F2.8-4 R LM OIS,Lens,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030567,lens_f23f2,XF 23mm F2 R WR,Lens,use_street,街拍扫街,UseCase,LENS_SUITABLE_FOR,88,街拍人文定焦,"{""note"": ""街拍人文定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847271,lens_f23f2,XF 23mm F2 R WR,Lens,brand_fuji,富士,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715816,lens_f35f2,XF 35mm F2 R WR,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,小巧人像街拍定焦,"{""note"": ""小巧人像街拍定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030568,lens_f35f2,XF 35mm F2 R WR,Lens,use_street,街拍扫街,UseCase,LENS_SUITABLE_FOR,88,小巧人像街拍定焦,"{""note"": ""小巧人像街拍定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847272,lens_f35f2,XF 35mm F2 R WR,Lens,brand_fuji,富士,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030571,lens_f50140,XF 50-140mm F2.8 R LM OIS WR,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,人像活动长焦,"{""note"": ""人像活动长焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715819,lens_f50140,XF 50-140mm F2.8 R LM OIS WR,Lens,use_sports,体育生态摄影,UseCase,LENS_SUITABLE_FOR,88,人像活动长焦,"{""note"": ""人像活动长焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847275,lens_f50140,XF 50-140mm F2.8 R LM OIS WR,Lens,brand_fuji,富士,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030569,lens_f56f12,XF 56mm F1.2 R WR,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,富士高端人像定焦,"{""note"": ""富士高端人像定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847273,lens_f56f12,XF 56mm F1.2 R WR,Lens,brand_fuji,富士,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847070,lens_fxc35,XC 35mm F2,Lens,brand_fuji,富士,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715826,lens_h_xcd45p,XCD 45mm F4 P,Lens,use_landscape,风光摄影,UseCase,LENS_SUITABLE_FOR,88,哈苏轻便中画幅标准定焦,"{""note"": ""哈苏轻便中画幅标准定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030578,lens_h_xcd45p,XCD 45mm F4 P,Lens,use_studio,商业棚拍,UseCase,LENS_SUITABLE_FOR,88,哈苏轻便中画幅标准定焦,"{""note"": ""哈苏轻便中画幅标准定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847282,lens_h_xcd45p,XCD 45mm F4 P,Lens,brand_hasselblad,哈苏,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030577,lens_lux28,Summilux 28mm F1.7 ASPH,Lens,use_street,街拍扫街,UseCase,LENS_SUITABLE_FOR,88,徕卡Q系列固定镜头,"{""note"": ""徕卡Q系列固定镜头"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715825,lens_lux28,Summilux 28mm F1.7 ASPH,Lens,use_travel,旅行随拍,UseCase,LENS_SUITABLE_FOR,88,徕卡Q系列固定镜头,"{""note"": ""徕卡Q系列固定镜头"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847281,lens_lux28,Summilux 28mm F1.7 ASPH,Lens,brand_leica,徕卡,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030563,lens_n1430,NIKKOR Z 14-30mm f/4 S,Lens,use_landscape,风光摄影,UseCase,LENS_SUITABLE_FOR,88,风光超广角变焦,"{""note"": ""风光超广角变焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847267,lens_n1430,NIKKOR Z 14-30mm f/4 S,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847067,lens_n1650,NIKKOR Z DX 16-50mm f/3.5-6.3 VR,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030565,lens_n180600,NIKKOR Z 180-600mm f/5.6-6.3 VR,Lens,use_sports,体育生态摄影,UseCase,LENS_SUITABLE_FOR,88,生态体育热门长焦,"{""note"": ""生态体育热门长焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847269,lens_n180600,NIKKOR Z 180-600mm f/5.6-6.3 VR,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847068,lens_n18140,NIKKOR Z DX 18-140mm f/3.5-6.3 VR,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715812,lens_n24120,NIKKOR Z 24-120mm f/4 S,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,旅行全能标准变焦,"{""note"": ""旅行全能标准变焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030564,lens_n24120,NIKKOR Z 24-120mm f/4 S,Lens,use_travel,旅行随拍,UseCase,LENS_SUITABLE_FOR,88,旅行全能标准变焦,"{""note"": ""旅行全能标准变焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847268,lens_n24120,NIKKOR Z 24-120mm f/4 S,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847069,lens_n2450,NIKKOR Z 24-50mm f/4-6.3,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847011,lens_n2470,NIKKOR Z 24-70mm f/2.8 S,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715809,lens_n35f18,NIKKOR Z 35mm f/1.8 S,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,街拍人文定焦,"{""note"": ""街拍人文定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030561,lens_n35f18,NIKKOR Z 35mm f/1.8 S,Lens,use_street,街拍扫街,UseCase,LENS_SUITABLE_FOR,88,街拍人文定焦,"{""note"": ""街拍人文定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847265,lens_n35f18,NIKKOR Z 35mm f/1.8 S,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715814,lens_n40f2,NIKKOR Z 40mm f/2,Lens,use_beginner,入门学习,UseCase,LENS_SUITABLE_FOR,88,轻便街拍定焦,"{""note"": ""轻便街拍定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030566,lens_n40f2,NIKKOR Z 40mm f/2,Lens,use_street,街拍扫街,UseCase,LENS_SUITABLE_FOR,88,轻便街拍定焦,"{""note"": ""轻便街拍定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847270,lens_n40f2,NIKKOR Z 40mm f/2,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847013,lens_n50,NIKKOR Z 50mm f/1.2 S,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847012,lens_n70200,NIKKOR Z 70-200mm f/2.8 VR S,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030562,lens_n85f18,NIKKOR Z 85mm f/1.8 S,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,人像定焦,"{""note"": ""人像定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847266,lens_n85f18,NIKKOR Z 85mm f/1.8 S,Lens,brand_nikon,尼康,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847120,lens_om1245,M.Zuiko 12-45mm F4 PRO,Lens,brand_om,OM System,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030576,lens_om300f4,M.Zuiko 300mm F4 IS PRO,Lens,use_sports,体育生态摄影,UseCase,LENS_SUITABLE_FOR,88,轻量生态打鸟定焦,"{""note"": ""轻量生态打鸟定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847280,lens_om300f4,M.Zuiko 300mm F4 IS PRO,Lens,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030575,lens_om40150,M.Zuiko 40-150mm F2.8 PRO,Lens,use_sports,体育生态摄影,UseCase,LENS_SUITABLE_FOR,88,M43生态运动长焦,"{""note"": ""M43生态运动长焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847279,lens_om40150,M.Zuiko 40-150mm F2.8 PRO,Lens,brand_om,OM System,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847118,lens_p1232,Lumix G 12-32mm F3.5-5.6,Lens,brand_panasonic,松下,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030574,lens_p1260,Lumix G 12-60mm F2.8-4 OIS,Lens,use_travel,旅行随拍,UseCase,LENS_SUITABLE_FOR,88,M43旅行变焦,"{""note"": ""M43旅行变焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715822,lens_p1260,Lumix G 12-60mm F2.8-4 OIS,Lens,use_video,视频创作,UseCase,LENS_SUITABLE_FOR,88,M43旅行变焦,"{""note"": ""M43旅行变焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847278,lens_p1260,Lumix G 12-60mm F2.8-4 OIS,Lens,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847119,lens_p2060,Lumix S 20-60mm F3.5-5.6,Lens,brand_panasonic,松下,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715820,lens_p2470,Lumix S Pro 24-70mm F2.8,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,松下全画幅大三元,"{""note"": ""松下全画幅大三元"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030572,lens_p2470,Lumix S Pro 24-70mm F2.8,Lens,use_video,视频创作,UseCase,LENS_SUITABLE_FOR,88,松下全画幅大三元,"{""note"": ""松下全画幅大三元"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847276,lens_p2470,Lumix S Pro 24-70mm F2.8,Lens,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030573,lens_p70200,Lumix S Pro 70-200mm F2.8 OIS,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,全画幅长焦大三元,"{""note"": ""全画幅长焦大三元"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715821,lens_p70200,Lumix S Pro 70-200mm F2.8 OIS,Lens,use_sports,体育生态摄影,UseCase,LENS_SUITABLE_FOR,88,全画幅长焦大三元,"{""note"": ""全画幅长焦大三元"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847277,lens_p70200,Lumix S Pro 70-200mm F2.8 OIS,Lens,brand_panasonic,松下,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030553,lens_s1224f4,FE 12-24mm F4 G,Lens,use_landscape,风光摄影,UseCase,LENS_SUITABLE_FOR,88,风光建筑超广角镜头,"{""note"": ""风光建筑超广角镜头"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847257,lens_s1224f4,FE 12-24mm F4 G,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847062,lens_s1650p,E PZ 16-50mm F3.5-5.6 OSS,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847063,lens_s18135,E 18-135mm F3.5-5.6 OSS,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030554,lens_s200600,FE 200-600mm F5.6-6.3 G OSS,Lens,use_sports,体育生态摄影,UseCase,LENS_SUITABLE_FOR,88,生态体育常用长焦,"{""note"": ""生态体育常用长焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847258,lens_s200600,FE 200-600mm F5.6-6.3 G OSS,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030552,lens_s20f18g,FE 20mm F1.8 G,Lens,use_landscape,风光摄影,UseCase,LENS_SUITABLE_FOR,88,风光星空和Vlog广角定焦,"{""note"": ""风光星空和Vlog广角定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715800,lens_s20f18g,FE 20mm F1.8 G,Lens,use_video,视频创作,UseCase,LENS_SUITABLE_FOR,88,风光星空和Vlog广角定焦,"{""note"": ""风光星空和Vlog广角定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847256,lens_s20f18g,FE 20mm F1.8 G,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847061,lens_s24105,FE 24-105mm F4 G OSS,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847005,lens_s2470,FE 24-70mm F2.8 GM II,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847060,lens_s2860,FE 28-60mm F4-5.6,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030549,lens_s35f18,FE 35mm F1.8,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,人像/街拍常用轻便定焦,"{""note"": ""人像/街拍常用轻便定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715797,lens_s35f18,FE 35mm F1.8,Lens,use_street,街拍扫街,UseCase,LENS_SUITABLE_FOR,88,人像/街拍常用轻便定焦,"{""note"": ""人像/街拍常用轻便定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847253,lens_s35f18,FE 35mm F1.8,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847007,lens_s50,FE 50mm F1.2 GM,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030551,lens_s55f18,Sonnar T* FE 55mm F1.8 ZA,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,轻便高画质标准定焦,"{""note"": ""轻便高画质标准定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155196394164715799,lens_s55f18,Sonnar T* FE 55mm F1.8 ZA,Lens,use_street,街拍扫街,UseCase,LENS_SUITABLE_FOR,88,轻便高画质标准定焦,"{""note"": ""轻便高画质标准定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847255,lens_s55f18,Sonnar T* FE 55mm F1.8 ZA,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847006,lens_s70200,FE 70-200mm F2.8 GM OSS II,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152944594351030550,lens_s85f18,FE 85mm F1.8,Lens,use_portrait,人像摄影,UseCase,LENS_SUITABLE_FOR,88,高性价比人像定焦,"{""note"": ""高性价比人像定焦"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152921504606847254,lens_s85f18,FE 85mm F1.8,Lens,brand_sony,索尼,Brand,PRODUCED_BY,,,"{""note"": """"}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891492,offer_jd_100013051295,索尼ZV-E10半画幅微黑色单机身,ProductOffer,cam_zve10,ZV-E10,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891498,offer_jd_100064843454,索尼A7C2微单套机,ProductOffer,cam_a7c2,Alpha 7C II,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891509,offer_jd_100207538577,索尼（SONY）ZV-E10K APS-C画幅微单相机 新升级标准镜头套装 白色 新套机镜头E PZ 16-50mm F3.5-5.6 OSS II,ProductOffer,cam_zve10,ZV-E10,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152940196304519285,offer_jd_100207538577,索尼（SONY）ZV-E10K APS-C画幅微单相机 新升级标准镜头套装 白色 新套机镜头E PZ 16-50mm F3.5-5.6 OSS II,ProductOffer,lens_s1650p,E PZ 16-50mm F3.5-5.6 OSS,Lens,OFFER_INCLUDES_LENS,,标题识别出的套机镜头,"{""note"": ""标题识别出的套机镜头""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891496,offer_jd_100207538579,索尼（SONY）ZV-E10K APS-C画幅微单相机 新升级标准镜头套装 黑色 新套机镜头E PZ 16-50mm F3.5-5.6 OSS II,ProductOffer,cam_zve10,ZV-E10,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152940196304519272,offer_jd_100207538579,索尼（SONY）ZV-E10K APS-C画幅微单相机 新升级标准镜头套装 黑色 新套机镜头E PZ 16-50mm F3.5-5.6 OSS II,ProductOffer,lens_s1650p,E PZ 16-50mm F3.5-5.6 OSS,Lens,OFFER_INCLUDES_LENS,,标题识别出的套机镜头,"{""note"": ""标题识别出的套机镜头""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891507,offer_jd_100216074669,索尼（SONY）ZV-E10K微单相机 半画幅直播4K视频 Vlog美颜神器 侧翻液晶屏数码相机 新升级标准镜头,ProductOffer,cam_zve10,ZV-E10,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891503,offer_jd_100262353621,索尼（SONY）【618专享】ZV-E10K APS-C画幅微单相机 黑色机身+新16-50人像+55-210长焦超值双镜头套装,ProductOffer,cam_zve10,ZV-E10,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152940196304519279,offer_jd_100262353621,索尼（SONY）【618专享】ZV-E10K APS-C画幅微单相机 黑色机身+新16-50人像+55-210长焦超值双镜头套装,ProductOffer,lens_s1650p,E PZ 16-50mm F3.5-5.6 OSS,Lens,OFFER_INCLUDES_LENS,,标题识别出的套机镜头,"{""note"": ""标题识别出的套机镜头""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891497,offer_jd_10033910239285,Canon佳能r100入门级微单相机 旅行家用学生vlog视频送礼物 4k小巧便携半画幅数码相机 R100 套机 送礼好物 【国家补贴至高立省15%】 官方标配,ProductOffer,cam_r100,EOS R100,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891510,offer_jd_10039419624359,【佳能旗舰店】r100入门相机,ProductOffer,cam_r100,EOS R100,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891500,offer_jd_10054809857901,索尼（SONY）ZV-E10K APS-C半画微单 ZV-E10 vlog直播4K视频侧翻式ZV-E10L/zv-e10/ZV-E10K 黑色单机 官方标配（不,ProductOffer,cam_zve10,ZV-E10,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891512,offer_jd_10066504677198,佳能r50相机 入门级微单 旅行家用学生vlog视频 4k小巧便携 半画幅 记录 高清便携 R50数码照相机 EOSR50 18-45 STM黑色套机 送礼好物,ProductOffer,cam_r50,EOS R50,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152940196304519288,offer_jd_10066504677198,佳能r50相机 入门级微单 旅行家用学生vlog视频 4k小巧便携 半画幅 记录 高清便携 R50数码照相机 EOSR50 18-45 STM黑色套机 送礼好物,ProductOffer,lens_c1845,RF-S 18-45mm F4.5-6.3 IS STM,Lens,OFFER_INCLUDES_LENS,,标题识别出的套机镜头,"{""note"": ""标题识别出的套机镜头""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891499,offer_jd_10068864908740,佳能r50相机 入门级微单 旅行家用学生vlog视频 4k小巧便携 半画幅 记录 高清便携 R50数码照相机 EOSR50 18-45 STM白色套机 送礼好物,ProductOffer,cam_r50,EOS R50,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152940196304519275,offer_jd_10068864908740,佳能r50相机 入门级微单 旅行家用学生vlog视频 4k小巧便携 半画幅 记录 高清便携 R50数码照相机 EOSR50 18-45 STM白色套机 送礼好物,ProductOffer,lens_c1845,RF-S 18-45mm F4.5-6.3 IS STM,Lens,OFFER_INCLUDES_LENS,,标题识别出的套机镜头,"{""note"": ""标题识别出的套机镜头""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891502,offer_jd_10070240860330,佳能（Canon）EOS R50 微单半画幅相机 r50小巧便携 Vlog拍摄直播相机 4K短视频 学生微单相机 R50白色 RF-S18-45套机【日常家用】,ProductOffer,cam_r50,EOS R50,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152940196304519278,offer_jd_10070240860330,佳能（Canon）EOS R50 微单半画幅相机 r50小巧便携 Vlog拍摄直播相机 4K短视频 学生微单相机 R50白色 RF-S18-45套机【日常家用】,ProductOffer,lens_c1845,RF-S 18-45mm F4.5-6.3 IS STM,Lens,OFFER_INCLUDES_LENS,,标题识别出的套机镜头,"{""note"": ""标题识别出的套机镜头""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891504,offer_jd_10096485342065,佳能（Canon）r100微单相机 4K数码高清旅游vlog视频 R100学生入门级微单 R100 18-45 STM套机【日常热款】 官方标配【不含内存卡基础,ProductOffer,cam_r100,EOS R100,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152940196304519280,offer_jd_10096485342065,佳能（Canon）r100微单相机 4K数码高清旅游vlog视频 R100学生入门级微单 R100 18-45 STM套机【日常热款】 官方标配【不含内存卡基础,ProductOffer,lens_c1845,RF-S 18-45mm F4.5-6.3 IS STM,Lens,OFFER_INCLUDES_LENS,,标题识别出的套机镜头,"{""note"": ""标题识别出的套机镜头""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891508,offer_jd_10097041537048,佳能（Canon）EOS R100 迷你微单 小巧轻便微单相机 Vlog拍摄日常记录 4K视频家用直播旅游r100照相机 学生微单 R100+RF-S18-45,ProductOffer,cam_r100,EOS R100,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152940196304519284,offer_jd_10097041537048,佳能（Canon）EOS R100 迷你微单 小巧轻便微单相机 Vlog拍摄日常记录 4K视频家用直播旅游r100照相机 学生微单 R100+RF-S18-45,ProductOffer,lens_c1845,RF-S 18-45mm F4.5-6.3 IS STM,Lens,OFFER_INCLUDES_LENS,,标题识别出的套机镜头,"{""note"": ""标题识别出的套机镜头""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891491,offer_jd_10110724739640,入门级微单相机 旅行家用学生vlog视频 4k小巧便携半画幅 人像 初学者 半画幅相机 数码相机 R100 RF-S 18-45STM 套机 官方标配【不含内存,ProductOffer,cam_r100,EOS R100,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152940196304519267,offer_jd_10110724739640,入门级微单相机 旅行家用学生vlog视频 4k小巧便携半画幅 人像 初学者 半画幅相机 数码相机 R100 RF-S 18-45STM 套机 官方标配【不含内存,ProductOffer,lens_c1845,RF-S 18-45mm F4.5-6.3 IS STM,Lens,OFFER_INCLUDES_LENS,,标题识别出的套机镜头,"{""note"": ""标题识别出的套机镜头""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891506,offer_jd_10137496244596,富士（FUJIFILM）富士XT30三代 XT30III 三代入门微单数码相机 4KVlog摄影摄像机 X-T30III 复古黑（单机身） 官方标配（机身+肩带,ProductOffer,cam_xt30iii,X-T30III,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891511,offer_jd_10137496294268,富士（FUJIFILM）富士XT30三代 XT30III 三代入门微单数码相机 4KVlog摄影摄像机 X-T30III银+XC15-45mm变焦镜头 官方标配,ProductOffer,cam_xt30iii,X-T30III,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152940196304519287,offer_jd_10137496294268,富士（FUJIFILM）富士XT30三代 XT30III 三代入门微单数码相机 4KVlog摄影摄像机 X-T30III银+XC15-45mm变焦镜头 官方标配,ProductOffer,lens_f1545,XC 15-45mm F3.5-5.6 OIS PZ,Lens,OFFER_INCLUDES_LENS,,标题识别出的套机镜头,"{""note"": ""标题识别出的套机镜头""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891493,offer_jd_10158296775136,【大促底价】富士XT5 16 55二代 全新官方标配,ProductOffer,cam_xt5,X-T5,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891495,offer_jd_10165137640802,佳能Canon [官方旗舰店] EOS R100套机入门微单相机照相机 买家秀晒图赢20元E卡 至高24期免息 EOS R100 套机 RF-S18-45mm,ProductOffer,cam_r100,EOS R100,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152940196304519271,offer_jd_10165137640802,佳能Canon [官方旗舰店] EOS R100套机入门微单相机照相机 买家秀晒图赢20元E卡 至高24期免息 EOS R100 套机 RF-S18-45mm,ProductOffer,lens_c1845,RF-S 18-45mm F4.5-6.3 IS STM,Lens,OFFER_INCLUDES_LENS,,标题识别出的套机镜头,"{""note"": ""标题识别出的套机镜头""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891505,offer_jd_10183298551057,索尼（SONY）ZV-E10K 半画幅微单相机 美肤拍照 精准对焦 VLOG APS-C画幅 ZVE10/ZV-10 ZV-E10黑色单机 标配,ProductOffer,cam_zve10,ZV-E10,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891490,offer_jd_10202282356480,索尼（SONY）ZV-E10K 半画幅微单相机 美肤拍照 精准对焦 VLOG APS-C画幅 索尼zve10/ZV-10 创意滤镜 E10K黑色 套机 官方标配,ProductOffer,cam_zve10,ZV-E10,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891501,offer_jd_10202282356481,索尼（SONY）ZV-E10K 半画幅微单相机 美肤拍照 精准对焦 VLOG APS-C画幅 索尼zve10/ZV-10 创意滤镜 E10K白色 套机 官方标配,ProductOffer,cam_zve10,ZV-E10,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152939096792891494,offer_jd_10220073054348,索尼（SONY）ZV-E10K 半画幅微单相机 美肤拍照 颜值机身 精准对焦 VLOG APS-C画幅 ZV-E10黑色单机身 (上海、江苏专享) 官方标配,ProductOffer,cam_zve10,ZV-E10,CameraModel,OFFER_FOR_CAMERA,,京东搜索页采集商品报价,"{""note"": ""京东搜索页采集商品报价""}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774885,price_jd_a7c2,Alpha 7C II 京东当前价,PriceRecord,cam_a7c2,Alpha 7C II,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774879,price_jd_r100,EOS R100 京东当前价,PriceRecord,cam_r100,EOS R100,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774882,price_jd_r50,EOS R50 京东当前价,PriceRecord,cam_r50,EOS R50,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774888,price_jd_xt5,X-T5 京东当前价,PriceRecord,cam_xt5,X-T5,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774876,price_jd_zve10,ZV-E10 京东当前价,PriceRecord,cam_zve10,ZV-E10,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774886,price_official_a7c2,Alpha 7C II 官方参考价,PriceRecord,cam_a7c2,Alpha 7C II,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774880,price_official_r100,EOS R100 官方参考价,PriceRecord,cam_r100,EOS R100,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774883,price_official_r50,EOS R50 官方参考价,PriceRecord,cam_r50,EOS R50,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774889,price_official_xt5,X-T5 官方参考价,PriceRecord,cam_xt5,X-T5,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774877,price_official_zve10,ZV-E10 官方参考价,PriceRecord,cam_zve10,ZV-E10,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774887,price_used_a7c2,Alpha 7C II 二手参考价,PriceRecord,cam_a7c2,Alpha 7C II,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774881,price_used_r100,EOS R100 二手参考价,PriceRecord,cam_r100,EOS R100,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774884,price_used_r50,EOS R50 二手参考价,PriceRecord,cam_r50,EOS R50,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774890,price_used_xt5,X-T5 二手参考价,PriceRecord,cam_xt5,X-T5,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152942395327774878,price_used_zve10,ZV-E10 二手参考价,PriceRecord,cam_zve10,ZV-E10,CameraModel,PRICE_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155193095629832341,profile_beginner_low,新手低预算用户,UserProfile,cam_r100,EOS R100,CameraModel,RECOMMENDED_CAMERA,94,价格低操作简单,"{""note"": ""价格低操作简单"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157444895443517589,profile_beginner_low,新手低预算用户,UserProfile,cam_r50,EOS R50,CameraModel,RECOMMENDED_CAMERA,88,预算稍高时更均衡,"{""note"": ""预算稍高时更均衡"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152941295816147093,profile_beginner_low,新手低预算用户,UserProfile,cam_zve10,ZV-E10,CameraModel,RECOMMENDED_CAMERA,95,低预算新手优先推荐,"{""note"": ""低预算新手优先推荐"", ""score"": 95}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155193095629832342,profile_beginner_video,新手视频/Vlog用户,UserProfile,cam_pocket3,Osmo Pocket 3,CameraModel,RECOMMENDED_CAMERA,94,最简单的视频记录设备,"{""note"": ""最简单的视频记录设备"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157444895443517590,profile_beginner_video,新手视频/Vlog用户,UserProfile,cam_r50,EOS R50,CameraModel,RECOMMENDED_CAMERA,88,照片视频兼顾,"{""note"": ""照片视频兼顾"", ""score"": 88}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152941295816147094,profile_beginner_video,新手视频/Vlog用户,UserProfile,cam_zve10,ZV-E10,CameraModel,RECOMMENDED_CAMERA,96,Vlog入门热销,"{""note"": ""Vlog入门热销"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152941295816147096,profile_portrait_ff,人像全画幅用户,UserProfile,cam_a7c2,Alpha 7C II,CameraModel,RECOMMENDED_CAMERA,92,轻便全画幅人像,"{""note"": ""轻便全画幅人像"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155193095629832344,profile_portrait_ff,人像全画幅用户,UserProfile,cam_r8,EOS R8,CameraModel,RECOMMENDED_CAMERA,90,佳能轻量全画幅,"{""note"": ""佳能轻量全画幅"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157444895443517592,profile_portrait_ff,人像全画幅用户,UserProfile,cam_z5m2,Z5 II,CameraModel,RECOMMENDED_CAMERA,86,尼康入门全画幅,"{""note"": ""尼康入门全画幅"", ""score"": 86}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152941295816147098,profile_sports_bird,体育生态用户,UserProfile,cam_a9m3,Alpha 9 III,CameraModel,RECOMMENDED_CAMERA,98,高速运动旗舰,"{""note"": ""高速运动旗舰"", ""score"": 98}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157444895443517594,profile_sports_bird,体育生态用户,UserProfile,cam_om1m2,OM-1 Mark II,CameraModel,RECOMMENDED_CAMERA,90,M43长焦生态轻量,"{""note"": ""M43长焦生态轻量"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155193095629832346,profile_sports_bird,体育生态用户,UserProfile,cam_z9,Z 9,CameraModel,RECOMMENDED_CAMERA,96,旗舰生态和连拍,"{""note"": ""旗舰生态和连拍"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155193095629832347,profile_studio_commercial,商业棚拍用户,UserProfile,cam_gfx100m2,GFX100 II,CameraModel,RECOMMENDED_CAMERA,94,富士中画幅高像素,"{""note"": ""富士中画幅高像素"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152941295816147099,profile_studio_commercial,商业棚拍用户,UserProfile,cam_x2d,X2D 100C,CameraModel,RECOMMENDED_CAMERA,96,中画幅商业棚拍,"{""note"": ""中画幅商业棚拍"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152941295816147095,profile_travel_light,旅行轻便用户,UserProfile,cam_a7c2,Alpha 7C II,CameraModel,RECOMMENDED_CAMERA,94,轻便全画幅旅行,"{""note"": ""轻便全画幅旅行"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157444895443517591,profile_travel_light,旅行轻便用户,UserProfile,cam_gr3,GR III,CameraModel,RECOMMENDED_CAMERA,92,口袋街拍旅行,"{""note"": ""口袋街拍旅行"", ""score"": 92}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155193095629832343,profile_travel_light,旅行轻便用户,UserProfile,cam_xm5,X-M5,CameraModel,RECOMMENDED_CAMERA,90,轻便复古街拍,"{""note"": ""轻便复古街拍"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152941295816147097,profile_video_pro,专业视频创作者,UserProfile,cam_fx3,FX3,CameraModel,RECOMMENDED_CAMERA,96,专业视频定位,"{""note"": ""专业视频定位"", ""score"": 96}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1155193095629832345,profile_video_pro,专业视频创作者,UserProfile,cam_gh7,Lumix GH7,CameraModel,RECOMMENDED_CAMERA,94,M43专业视频旗舰,"{""note"": ""M43专业视频旗舰"", ""score"": 94}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1157444895443517593,profile_video_pro,专业视频创作者,UserProfile,cam_s5m2,Lumix S5 II,CameraModel,RECOMMENDED_CAMERA,90,全画幅视频照片均衡,"{""note"": ""全画幅视频照片均衡"", ""score"": 90}"
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152943494839402670,review_a7c2,Alpha 7C II 综合评测,ReviewRecord,cam_a7c2,Alpha 7C II,CameraModel,REVIEW_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152943494839402668,review_r100,EOS R100 综合评测,ReviewRecord,cam_r100,EOS R100,CameraModel,REVIEW_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152943494839402669,review_r50,EOS R50 综合评测,ReviewRecord,cam_r50,EOS R50,CameraModel,REVIEW_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152943494839402671,review_xt5,X-T5 综合评测,ReviewRecord,cam_xt5,X-T5,CameraModel,REVIEW_OF,,,{}
+5:adc014b7-d83e-4a65-a38e-67d729d41303:1152943494839402667,review_zve10,ZV-E10 综合评测,ReviewRecord,cam_zve10,ZV-E10,CameraModel,REVIEW_OF,,,{}

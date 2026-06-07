@@ -1,0 +1,100 @@
+﻿id,name,Label,brand,category,price,releaseYear,weight,effectivePixels,ibisStops,afPoints,batteryShots,cardSlots,screenType,videoBitrate,mount,marketHotScore,sourcePlatform,marketNote
+cam_a1,Alpha 1,CameraModel,索尼,全画幅微单,47999,2021,737,5010,5.5,759,420,2,触控屏,200Mbps,全画幅微单,91,品牌型号扩容,索尼热门/代表型号，适合professional场景
+cam_a7s3,Alpha 7S III,CameraModel,索尼,全画幅微单,23999,2020,699,1210,5.5,759,420,2,翻折触控屏,200Mbps,全画幅微单,90,品牌型号扩容,索尼热门/代表型号，适合video场景
+cam_zv1m2,ZV-1 II,CameraModel,索尼,Vlog便携相机,5499,2023,292,2010,0,315,420,1,翻折触控屏,200Mbps,Vlog便携相机,89,品牌型号扩容,索尼热门/代表型号，适合video场景
+cam_r5,EOS R5,CameraModel,佳能,全画幅微单,21999,2020,738,4500,8,1053,420,2,触控屏,,全画幅微单,91,品牌型号扩容,佳能热门/代表型号，适合landscape场景
+cam_r10_old,EOS R10,CameraModel,佳能,APS-C画幅微单,6799,2022,429,2420,0,651,420,1,触控屏,,APS-C画幅微单,90,品牌型号扩容,佳能热门/代表型号，适合beginner场景
+cam_r8_dup,EOS R8,CameraModel,佳能,全画幅微单,10499,2023,461,2420,0,1053,420,1,触控屏,,全画幅微单,89,品牌型号扩容,佳能热门/代表型号，适合portrait场景
+cam_r5c,EOS R5 C,CameraModel,佳能,全画幅微单,26999,2022,770,4500,0,1053,420,2,翻折触控屏,200Mbps,全画幅微单,88,品牌型号扩容,佳能热门/代表型号，适合video场景
+cam_r1,EOS R1,CameraModel,佳能,全画幅微单,45999,2024,920,2420,8.5,1053,420,2,触控屏,,全画幅微单,87,品牌型号扩容,佳能热门/代表型号，适合sports场景
+cam_z7m2,Z 7II,CameraModel,尼康,全画幅微单,14999,2020,705,4575,5,493,420,2,触控屏,,全画幅微单,91,品牌型号扩容,尼康热门/代表型号，适合landscape场景
+cam_z5,Z 5,CameraModel,尼康,全画幅微单,7999,2020,675,2430,5,273,420,1,触控屏,,全画幅微单,90,品牌型号扩容,尼康热门/代表型号，适合beginner场景
+cam_z30_new,Z 30,CameraModel,尼康,APS-C画幅微单,4999,2022,405,2088,0,209,420,1,翻折触控屏,200Mbps,APS-C画幅微单,89,品牌型号扩容,尼康热门/代表型号，适合video场景
+cam_zfc,Z fc,CameraModel,尼康,APS-C画幅微单,6999,2021,445,2088,0,209,420,1,触控屏,,APS-C画幅微单,88,品牌型号扩容,尼康热门/代表型号，适合street场景
+cam_z7,Z 7,CameraModel,尼康,全画幅微单,9999,2018,675,4575,5,493,300,1,触控屏,,全画幅微单,87,品牌型号扩容,尼康热门/代表型号，适合landscape场景
+cam_z6m2,Z 6II,CameraModel,尼康,全画幅微单,9999,2020,705,2450,5,273,420,1,触控屏,,全画幅微单,86,品牌型号扩容,尼康热门/代表型号，适合portrait场景
+cam_z6,Z 6,CameraModel,尼康,全画幅微单,7999,2018,675,2450,5,273,300,1,触控屏,,全画幅微单,85,品牌型号扩容,尼康热门/代表型号，适合portrait场景
+cam_xh2,X-H2,CameraModel,富士,APS-C画幅微单,13999,2022,660,4020,7,425,420,2,触控屏,,APS-C画幅微单,91,品牌型号扩容,富士热门/代表型号，适合landscape场景
+cam_xpro3,X-Pro3,CameraModel,富士,APS-C画幅微单,12999,2019,497,2610,0,425,300,2,触控屏,,APS-C画幅微单,90,品牌型号扩容,富士热门/代表型号，适合street场景
+cam_xt4,X-T4,CameraModel,富士,APS-C画幅微单,8999,2020,607,2610,6.5,425,420,1,翻折触控屏,200Mbps,APS-C画幅微单,89,品牌型号扩容,富士热门/代表型号，适合video场景
+cam_xt3,X-T3,CameraModel,富士,APS-C画幅微单,5999,2018,539,2610,0,425,300,1,触控屏,,APS-C画幅微单,88,品牌型号扩容,富士热门/代表型号，适合street场景
+cam_gfx50s2,GFX 50S II,CameraModel,富士,中画幅微单,24999,2021,900,5140,6.5,425,420,2,触控屏,,中画幅微单,87,品牌型号扩容,富士热门/代表型号，适合studio场景
+cam_gfx100s,GFX100S,CameraModel,富士,中画幅微单,39999,2021,900,10200,6,425,420,2,触控屏,,中画幅微单,86,品牌型号扩容,富士热门/代表型号，适合studio场景
+cam_s1,Lumix S1,CameraModel,松下,全画幅微单,10999,2019,1021,2420,6,225,300,1,触控屏,,全画幅微单,91,品牌型号扩容,松下热门/代表型号，适合portrait场景
+cam_s1r,Lumix S1R,CameraModel,松下,全画幅微单,16999,2019,1020,4730,6,225,300,2,触控屏,,全画幅微单,90,品牌型号扩容,松下热门/代表型号，适合landscape场景
+cam_s1h,Lumix S1H,CameraModel,松下,全画幅微单,21999,2019,1164,2420,6,225,300,2,翻折触控屏,200Mbps,全画幅微单,89,品牌型号扩容,松下热门/代表型号，适合video场景
+cam_s5,Lumix S5,CameraModel,松下,全画幅微单,7999,2020,714,2420,6.5,225,420,1,翻折触控屏,200Mbps,全画幅微单,88,品牌型号扩容,松下热门/代表型号，适合video场景
+cam_s5m2x,Lumix S5 IIX,CameraModel,松下,全画幅微单,13999,2023,740,2420,6.5,779,420,2,翻折触控屏,200Mbps,全画幅微单,87,品牌型号扩容,松下热门/代表型号，适合video场景
+cam_g9m2,Lumix G9 II,CameraModel,松下,M43微单,11999,2023,658,2520,8,779,420,1,触控屏,,M43微单,86,品牌型号扩容,松下热门/代表型号，适合sports场景
+cam_gh6,Lumix GH6,CameraModel,松下,M43微单,9999,2022,823,2520,7.5,315,420,1,翻折触控屏,200Mbps,M43微单,85,品牌型号扩容,松下热门/代表型号，适合video场景
+cam_gh5m2,Lumix GH5 II,CameraModel,松下,M43微单,7999,2021,727,2030,6.5,225,420,1,翻折触控屏,200Mbps,M43微单,84,品牌型号扩容,松下热门/代表型号，适合video场景
+cam_g95,Lumix G95,CameraModel,松下,M43微单,4999,2019,536,2030,5,49,300,1,触控屏,,M43微单,83,品牌型号扩容,松下热门/代表型号，适合beginner场景
+cam_gx9,Lumix GX9,CameraModel,松下,M43微单,3999,2018,450,2030,4,49,300,1,触控屏,,M43微单,82,品牌型号扩容,松下热门/代表型号，适合street场景
+cam_lx100m2,Lumix LX100 II,CameraModel,松下,便携固定镜头相机,5999,2018,392,1700,0,49,300,1,触控屏,,便携固定镜头相机,81,品牌型号扩容,松下热门/代表型号，适合street场景
+cam_m11,M11,CameraModel,徕卡,便携固定镜头相机,68000,2022,530,6030,0,0,420,2,触控屏,,便携固定镜头相机,91,品牌型号扩容,徕卡热门/代表型号，适合street场景
+cam_m11p,M11-P,CameraModel,徕卡,便携固定镜头相机,72000,2023,530,6030,0,0,420,2,触控屏,,便携固定镜头相机,90,品牌型号扩容,徕卡热门/代表型号，适合street场景
+cam_m11m,M11 Monochrom,CameraModel,徕卡,便携固定镜头相机,78000,2023,540,6030,0,0,420,2,触控屏,,便携固定镜头相机,89,品牌型号扩容,徕卡热门/代表型号，适合street场景
+cam_q2,Q2,CameraModel,徕卡,便携固定镜头相机,33900,2019,734,4730,0,225,300,2,触控屏,,便携固定镜头相机,88,品牌型号扩容,徕卡热门/代表型号，适合travel场景
+cam_sl2,SL2,CameraModel,徕卡,全画幅微单,38900,2019,835,4730,5.5,225,300,2,触控屏,,全画幅微单,87,品牌型号扩容,徕卡热门/代表型号，适合studio场景
+cam_sl2s,SL2-S,CameraModel,徕卡,全画幅微单,32900,2020,850,2420,5.5,225,420,2,翻折触控屏,200Mbps,全画幅微单,86,品牌型号扩容,徕卡热门/代表型号，适合video场景
+cam_sl3,SL3,CameraModel,徕卡,全画幅微单,54800,2024,769,6030,5,779,420,2,触控屏,,全画幅微单,85,品牌型号扩容,徕卡热门/代表型号，适合landscape场景
+cam_cl,CL,CameraModel,徕卡,APS-C画幅微单,14999,2017,403,2420,0,49,300,2,触控屏,,APS-C画幅微单,84,品牌型号扩容,徕卡热门/代表型号，适合travel场景
+cam_tl2,TL2,CameraModel,徕卡,APS-C画幅微单,9999,2017,399,2420,0,49,300,1,触控屏,,APS-C画幅微单,83,品牌型号扩容,徕卡热门/代表型号，适合street场景
+cam_dlux7,D-LUX 7,CameraModel,徕卡,便携固定镜头相机,8999,2018,403,1700,0,49,300,1,触控屏,,便携固定镜头相机,82,品牌型号扩容,徕卡热门/代表型号，适合travel场景
+cam_vlux5,V-LUX 5,CameraModel,徕卡,便携固定镜头相机,9999,2019,812,2010,0,49,300,1,触控屏,,便携固定镜头相机,81,品牌型号扩容,徕卡热门/代表型号，适合travel场景
+cam_sofort2,Sofort 2,CameraModel,徕卡,便携固定镜头相机,2999,2023,320,500,0,0,420,1,触控屏,,便携固定镜头相机,80,品牌型号扩容,徕卡热门/代表型号，适合beginner场景
+cam_m10r,M10-R,CameraModel,徕卡,便携固定镜头相机,52000,2020,660,4000,0,0,420,2,触控屏,,便携固定镜头相机,79,品牌型号扩容,徕卡热门/代表型号，适合street场景
+cam_em1m3,E-M1 Mark III,CameraModel,OM System,M43微单,8999,2020,580,2040,7.5,121,420,1,触控屏,,M43微单,91,品牌型号扩容,OM System热门/代表型号，适合sports场景
+cam_em1x,E-M1X,CameraModel,OM System,M43微单,12999,2019,997,2040,7.5,121,300,2,触控屏,,M43微单,90,品牌型号扩容,OM System热门/代表型号，适合sports场景
+cam_em5m3,E-M5 Mark III,CameraModel,OM System,M43微单,5999,2019,414,2040,5.5,121,300,1,触控屏,,M43微单,89,品牌型号扩容,OM System热门/代表型号，适合travel场景
+cam_em10m4,E-M10 Mark IV,CameraModel,OM System,M43微单,4999,2020,383,2030,4.5,121,420,1,触控屏,,M43微单,88,品牌型号扩容,OM System热门/代表型号，适合beginner场景
+cam_penf,PEN-F,CameraModel,OM System,M43微单,7999,2016,427,2030,5,81,300,1,触控屏,,M43微单,87,品牌型号扩容,OM System热门/代表型号，适合street场景
+cam_epl10,E-PL10,CameraModel,OM System,M43微单,3999,2019,380,1600,3.5,121,300,1,触控屏,,M43微单,86,品牌型号扩容,OM System热门/代表型号，适合beginner场景
+cam_tg7,TG-7,CameraModel,OM System,便携固定镜头相机,3999,2023,249,1200,0,25,420,1,触控屏,,便携固定镜头相机,85,品牌型号扩容,OM System热门/代表型号，适合travel场景
+cam_tg6,TG-6,CameraModel,OM System,便携固定镜头相机,2999,2019,253,1200,0,25,300,1,触控屏,,便携固定镜头相机,84,品牌型号扩容,OM System热门/代表型号，适合travel场景
+cam_om1,OM-1,CameraModel,OM System,M43微单,12999,2022,599,2040,8,1053,420,2,触控屏,,M43微单,83,品牌型号扩容,OM System热门/代表型号，适合sports场景
+cam_em1m2,E-M1 Mark II,CameraModel,OM System,M43微单,5999,2016,574,2040,5.5,121,300,1,触控屏,,M43微单,82,品牌型号扩容,OM System热门/代表型号，适合sports场景
+cam_em5m2,E-M5 Mark II,CameraModel,OM System,M43微单,3999,2015,469,1600,5,81,300,1,触控屏,,M43微单,81,品牌型号扩容,OM System热门/代表型号，适合travel场景
+cam_epl9,E-PL9,CameraModel,OM System,M43微单,2999,2018,380,1600,3.5,121,300,1,触控屏,,M43微单,80,品牌型号扩容,OM System热门/代表型号，适合beginner场景
+cam_air_a01,Air A01,CameraModel,OM System,M43微单,1999,2015,147,1600,0,81,300,1,触控屏,,M43微单,79,品牌型号扩容,OM System热门/代表型号，适合beginner场景
+cam_gr2,GR II,CameraModel,理光,便携固定镜头相机,3999,2015,251,1620,0,0,300,1,触控屏,,便携固定镜头相机,91,品牌型号扩容,理光热门/代表型号，适合street场景
+cam_griiihdf,GR III HDF,CameraModel,理光,便携固定镜头相机,7999,2024,257,2420,3,0,420,1,触控屏,,便携固定镜头相机,90,品牌型号扩容,理光热门/代表型号，适合street场景
+cam_gr3xhdf,GR IIIx HDF,CameraModel,理光,便携固定镜头相机,8499,2024,262,2420,3,0,420,1,触控屏,,便携固定镜头相机,89,品牌型号扩容,理光热门/代表型号，适合street场景
+cam_gr3street,GR III Street Edition,CameraModel,理光,便携固定镜头相机,7999,2020,257,2420,3,0,420,1,触控屏,,便携固定镜头相机,88,品牌型号扩容,理光热门/代表型号，适合street场景
+cam_gr3xurban,GR IIIx Urban Edition,CameraModel,理光,便携固定镜头相机,8499,2022,262,2420,3,0,420,1,触控屏,,便携固定镜头相机,87,品牌型号扩容,理光热门/代表型号，适合street场景
+cam_gr,GR,CameraModel,理光,便携固定镜头相机,2999,2013,245,1620,0,0,300,1,触控屏,,便携固定镜头相机,86,品牌型号扩容,理光热门/代表型号，适合street场景
+cam_gxr,GXR,CameraModel,理光,便携固定镜头相机,1999,2009,370,1200,0,0,300,1,触控屏,,便携固定镜头相机,85,品牌型号扩容,理光热门/代表型号，适合street场景
+cam_wg8,WG-8,CameraModel,理光,便携固定镜头相机,2999,2024,242,2000,0,9,420,1,触控屏,,便携固定镜头相机,84,品牌型号扩容,理光热门/代表型号，适合travel场景
+cam_wg7,WG-7,CameraModel,理光,便携固定镜头相机,2499,2021,246,2000,0,9,420,1,触控屏,,便携固定镜头相机,83,品牌型号扩容,理光热门/代表型号，适合travel场景
+cam_wg6,WG-6,CameraModel,理光,便携固定镜头相机,1999,2019,246,2000,0,9,300,1,触控屏,,便携固定镜头相机,82,品牌型号扩容,理光热门/代表型号，适合travel场景
+cam_theta_z1,Theta Z1,CameraModel,理光,Vlog便携相机,6999,2019,182,2300,0,0,300,1,翻折触控屏,200Mbps,Vlog便携相机,81,品牌型号扩容,理光热门/代表型号，适合video场景
+cam_theta_x,Theta X,CameraModel,理光,Vlog便携相机,5999,2022,170,6000,0,0,420,1,翻折触控屏,200Mbps,Vlog便携相机,80,品牌型号扩容,理光热门/代表型号，适合video场景
+cam_theta_sc2,Theta SC2,CameraModel,理光,Vlog便携相机,1999,2019,104,1400,0,0,300,1,翻折触控屏,200Mbps,Vlog便携相机,79,品牌型号扩容,理光热门/代表型号，适合video场景
+cam_x1d,X1D,CameraModel,哈苏,中画幅微单,29999,2016,725,5000,0,117,300,2,触控屏,,中画幅微单,91,品牌型号扩容,哈苏热门/代表型号，适合studio场景
+cam_x1d2,X1D II 50C,CameraModel,哈苏,中画幅微单,39999,2019,766,5000,0,117,300,2,触控屏,,中画幅微单,90,品牌型号扩容,哈苏热门/代表型号，适合studio场景
+cam_907x50c,907X 50C,CameraModel,哈苏,中画幅微单,49999,2020,740,5000,0,117,420,2,触控屏,,中画幅微单,89,品牌型号扩容,哈苏热门/代表型号，适合studio场景
+cam_907x100c,907X & CFV 100C,CameraModel,哈苏,中画幅微单,59999,2024,620,10000,0,294,420,2,触控屏,,中画幅微单,88,品牌型号扩容,哈苏热门/代表型号，适合studio场景
+cam_h6d100c,H6D-100c,CameraModel,哈苏,中画幅微单,239999,2016,2130,10000,0,0,300,2,触控屏,,中画幅微单,87,品牌型号扩容,哈苏热门/代表型号，适合studio场景
+cam_h6d50c,H6D-50c,CameraModel,哈苏,中画幅微单,159999,2016,2130,5000,0,0,300,2,触控屏,,中画幅微单,86,品牌型号扩容,哈苏热门/代表型号，适合studio场景
+cam_h5d50c,H5D-50c,CameraModel,哈苏,中画幅微单,99999,2014,2290,5000,0,0,300,2,触控屏,,中画幅微单,85,品牌型号扩容,哈苏热门/代表型号，适合studio场景
+cam_h4d40,H4D-40,CameraModel,哈苏,中画幅微单,59999,2010,2290,4000,0,0,300,2,触控屏,,中画幅微单,84,品牌型号扩容,哈苏热门/代表型号，适合studio场景
+cam_lunar,Lunar,CameraModel,哈苏,APS-C画幅微单,29999,2013,411,2430,0,25,300,2,触控屏,,APS-C画幅微单,83,品牌型号扩容,哈苏热门/代表型号，适合travel场景
+cam_stellar,Stellar,CameraModel,哈苏,便携固定镜头相机,14999,2013,240,2020,0,25,300,2,触控屏,,便携固定镜头相机,82,品牌型号扩容,哈苏热门/代表型号，适合travel场景
+cam_hv,HV,CameraModel,哈苏,全画幅微单,59999,2014,733,2430,0,25,300,2,触控屏,,全画幅微单,81,品牌型号扩容,哈苏热门/代表型号，适合portrait场景
+cam_500cm,500 C/M,CameraModel,哈苏,中画幅微单,39999,1970,1500,0,0,0,300,2,触控屏,,中画幅微单,80,品牌型号扩容,哈苏热门/代表型号，适合studio场景
+cam_503cw,503CW,CameraModel,哈苏,中画幅微单,49999,1996,1600,0,0,0,300,2,触控屏,,中画幅微单,79,品牌型号扩容,哈苏热门/代表型号，适合studio场景
+cam_arcbody,ArcBody,CameraModel,哈苏,中画幅微单,59999,1997,1200,0,0,0,300,2,触控屏,,中画幅微单,78,品牌型号扩容,哈苏热门/代表型号，适合landscape场景
+cam_action5pro,Osmo Action 5 Pro,CameraModel,大疆,Vlog便携相机,2999,2024,146,4000,0,0,420,1,翻折触控屏,200Mbps,Vlog便携相机,91,品牌型号扩容,大疆热门/代表型号，适合video场景
+cam_action4,Osmo Action 4,CameraModel,大疆,Vlog便携相机,2499,2023,145,1200,0,0,420,1,翻折触控屏,200Mbps,Vlog便携相机,90,品牌型号扩容,大疆热门/代表型号，适合video场景
+cam_action3,Osmo Action 3,CameraModel,大疆,Vlog便携相机,1999,2022,145,1200,0,0,420,1,翻折触控屏,200Mbps,Vlog便携相机,89,品牌型号扩容,大疆热门/代表型号，适合video场景
+cam_pocket2,Osmo Pocket 2,CameraModel,大疆,Vlog便携相机,2499,2020,117,6400,0,0,420,1,翻折触控屏,200Mbps,Vlog便携相机,88,品牌型号扩容,大疆热门/代表型号，适合video场景
+cam_osmo_action,Osmo Action,CameraModel,大疆,Vlog便携相机,1299,2019,134,1200,0,0,300,1,翻折触控屏,200Mbps,Vlog便携相机,87,品牌型号扩容,大疆热门/代表型号，适合video场景
+cam_mavic3pro,Mavic 3 Pro,CameraModel,大疆,Vlog便携相机,13888,2023,958,2000,0,0,420,2,翻折触控屏,200Mbps,Vlog便携相机,86,品牌型号扩容,大疆热门/代表型号，适合video场景
+cam_mavic3classic,Mavic 3 Classic,CameraModel,大疆,Vlog便携相机,9288,2022,895,2000,0,0,420,1,翻折触控屏,200Mbps,Vlog便携相机,85,品牌型号扩容,大疆热门/代表型号，适合video场景
+cam_air3,Air 3,CameraModel,大疆,Vlog便携相机,6988,2023,720,4800,0,0,420,1,翻折触控屏,200Mbps,Vlog便携相机,84,品牌型号扩容,大疆热门/代表型号，适合video场景
+cam_air3s,Air 3S,CameraModel,大疆,Vlog便携相机,6988,2024,724,5000,0,0,420,1,翻折触控屏,200Mbps,Vlog便携相机,83,品牌型号扩容,大疆热门/代表型号，适合video场景
+cam_mini4pro,Mini 4 Pro,CameraModel,大疆,Vlog便携相机,4788,2023,249,4800,0,0,420,1,触控屏,,Vlog便携相机,82,品牌型号扩容,大疆热门/代表型号，适合travel场景
+cam_mini3pro,Mini 3 Pro,CameraModel,大疆,Vlog便携相机,3988,2022,249,4800,0,0,420,1,触控屏,,Vlog便携相机,81,品牌型号扩容,大疆热门/代表型号，适合travel场景
+cam_avata2,Avata 2,CameraModel,大疆,Vlog便携相机,5988,2024,377,1200,0,0,420,1,翻折触控屏,200Mbps,Vlog便携相机,80,品牌型号扩容,大疆热门/代表型号，适合video场景
+cam_inspire3,Inspire 3,CameraModel,大疆,Vlog便携相机,79888,2023,3995,8000,0,0,420,2,触控屏,200Mbps,Vlog便携相机,79,品牌型号扩容,大疆热门/代表型号，适合professional场景
+cam_rs3pro,Ronin 4D,CameraModel,大疆,Vlog便携相机,46888,2021,4670,6000,0,0,420,2,触控屏,200Mbps,Vlog便携相机,78,品牌型号扩容,大疆热门/代表型号，适合professional场景
